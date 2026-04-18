@@ -1,0 +1,1 @@
+# quickcomm_stores
