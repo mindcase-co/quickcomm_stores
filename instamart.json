@@ -1,0 +1,7533 @@
+{
+  "platform": "Swiggy",
+  "total_stores": 1206,
+  "total_cities": 145,
+  "cities": {
+    "Bengaluru": [
+      {
+        "store_id": "1313712",
+        "pincode": "560001",
+        "latitude": "12.9776",
+        "longitude": "77.6007"
+      },
+      {
+        "store_id": "1382868",
+        "pincode": "560003",
+        "latitude": "13.0707",
+        "longitude": "77.5577"
+      },
+      {
+        "store_id": "1388682",
+        "pincode": "560003",
+        "latitude": "12.9986",
+        "longitude": "77.5761"
+      },
+      {
+        "store_id": "1404676",
+        "pincode": "560003",
+        "latitude": "13.0058",
+        "longitude": "77.5785"
+      },
+      {
+        "store_id": "1387633",
+        "pincode": "560005",
+        "latitude": "12.9986",
+        "longitude": "77.6223"
+      },
+      {
+        "store_id": "1395721",
+        "pincode": "560008",
+        "latitude": "12.9625",
+        "longitude": "77.65"
+      },
+      {
+        "store_id": "1181690",
+        "pincode": "560010",
+        "latitude": "12.9265",
+        "longitude": "77.576"
+      },
+      {
+        "store_id": "1373485",
+        "pincode": "560016",
+        "latitude": "13.0346",
+        "longitude": "77.7056"
+      },
+      {
+        "store_id": "1404662",
+        "pincode": "560016",
+        "latitude": "13.0185",
+        "longitude": "77.684"
+      },
+      {
+        "store_id": "1395722",
+        "pincode": "560017",
+        "latitude": "12.9535",
+        "longitude": "77.6685"
+      },
+      {
+        "store_id": "1396467",
+        "pincode": "560022",
+        "latitude": "13.0256",
+        "longitude": "77.5577"
+      },
+      {
+        "store_id": "1404579",
+        "pincode": "560024",
+        "latitude": "13.0486",
+        "longitude": "77.6091"
+      },
+      {
+        "store_id": "1403020",
+        "pincode": "560025",
+        "latitude": "12.9734",
+        "longitude": "77.6094"
+      },
+      {
+        "store_id": "1403353",
+        "pincode": "560025",
+        "latitude": "12.9662",
+        "longitude": "77.6047"
+      },
+      {
+        "store_id": "1402670",
+        "pincode": "560026",
+        "latitude": "12.9518",
+        "longitude": "77.5489"
+      },
+      {
+        "store_id": "1402948",
+        "pincode": "560027",
+        "latitude": "12.952",
+        "longitude": "77.5941"
+      },
+      {
+        "store_id": "1393564",
+        "pincode": "560029",
+        "latitude": "12.9265",
+        "longitude": "77.6037"
+      },
+      {
+        "store_id": "1231805",
+        "pincode": "560032",
+        "latitude": "13.0256",
+        "longitude": "77.6132"
+      },
+      {
+        "store_id": "1400216",
+        "pincode": "560032",
+        "latitude": "13.0448",
+        "longitude": "77.6079"
+      },
+      {
+        "store_id": "1403138",
+        "pincode": "560032",
+        "latitude": "13.0261",
+        "longitude": "77.5885"
+      },
+      {
+        "store_id": "1402444",
+        "pincode": "560034",
+        "latitude": "12.935",
+        "longitude": "77.6086"
+      },
+      {
+        "store_id": "1381157",
+        "pincode": "560035",
+        "latitude": "12.886",
+        "longitude": "77.7238"
+      },
+      {
+        "store_id": "1385836",
+        "pincode": "560035",
+        "latitude": "12.9021",
+        "longitude": "77.6772"
+      },
+      {
+        "store_id": "1387903",
+        "pincode": "560035",
+        "latitude": "12.8995",
+        "longitude": "77.6868"
+      },
+      {
+        "store_id": "1392421",
+        "pincode": "560035",
+        "latitude": "12.9115",
+        "longitude": "77.6992"
+      },
+      {
+        "store_id": "1403463",
+        "pincode": "560035",
+        "latitude": "12.8955",
+        "longitude": "77.7012"
+      },
+      {
+        "store_id": "1381021",
+        "pincode": "560037",
+        "latitude": "12.9471",
+        "longitude": "77.6958"
+      },
+      {
+        "store_id": "1382412",
+        "pincode": "560037",
+        "latitude": "12.972",
+        "longitude": "77.6943"
+      },
+      {
+        "store_id": "1395425",
+        "pincode": "560037",
+        "latitude": "12.9535",
+        "longitude": "77.7055"
+      },
+      {
+        "store_id": "1400610",
+        "pincode": "560037",
+        "latitude": "12.9535",
+        "longitude": "77.687"
+      },
+      {
+        "store_id": "1190778",
+        "pincode": "560038",
+        "latitude": "12.9896",
+        "longitude": "77.6501"
+      },
+      {
+        "store_id": "1380899",
+        "pincode": "560040",
+        "latitude": "12.9716",
+        "longitude": "77.5576"
+      },
+      {
+        "store_id": "1403749",
+        "pincode": "560040",
+        "latitude": "12.9647",
+        "longitude": "77.5338"
+      },
+      {
+        "store_id": "816648",
+        "pincode": "560042",
+        "latitude": "12.9896",
+        "longitude": "77.6131"
+      },
+      {
+        "store_id": "1238349",
+        "pincode": "560043",
+        "latitude": "13.0376",
+        "longitude": "77.6625"
+      },
+      {
+        "store_id": "1381969",
+        "pincode": "560043",
+        "latitude": "13.0076",
+        "longitude": "77.6501"
+      },
+      {
+        "store_id": "1390218",
+        "pincode": "560043",
+        "latitude": "13.0166",
+        "longitude": "77.6409"
+      },
+      {
+        "store_id": "1400930",
+        "pincode": "560043",
+        "latitude": "13.0076",
+        "longitude": "77.6686"
+      },
+      {
+        "store_id": "1404452",
+        "pincode": "560043",
+        "latitude": "13.0578",
+        "longitude": "77.6485"
+      },
+      {
+        "store_id": "1404673",
+        "pincode": "560043",
+        "latitude": "13.0369",
+        "longitude": "77.6279"
+      },
+      {
+        "store_id": "1404679",
+        "pincode": "560043",
+        "latitude": "13.025",
+        "longitude": "77.6681"
+      },
+      {
+        "store_id": "1404786",
+        "pincode": "560043",
+        "latitude": "13.0021",
+        "longitude": "77.663"
+      },
+      {
+        "store_id": "1404580",
+        "pincode": "560046",
+        "latitude": "13.0042",
+        "longitude": "77.5992"
+      },
+      {
+        "store_id": "1380521",
+        "pincode": "560047",
+        "latitude": "12.9535",
+        "longitude": "77.613"
+      },
+      {
+        "store_id": "1382350",
+        "pincode": "560048",
+        "latitude": "12.9716",
+        "longitude": "77.7055"
+      },
+      {
+        "store_id": "1385942",
+        "pincode": "560048",
+        "latitude": "12.9986",
+        "longitude": "77.724"
+      },
+      {
+        "store_id": "1393563",
+        "pincode": "560048",
+        "latitude": "12.9896",
+        "longitude": "77.687"
+      },
+      {
+        "store_id": "1395434",
+        "pincode": "560048",
+        "latitude": "12.9896",
+        "longitude": "77.7055"
+      },
+      {
+        "store_id": "1403354",
+        "pincode": "560048",
+        "latitude": "12.9772",
+        "longitude": "77.7257"
+      },
+      {
+        "store_id": "1404583",
+        "pincode": "560049",
+        "latitude": "13.0199",
+        "longitude": "77.7242"
+      },
+      {
+        "store_id": "1402048",
+        "pincode": "560058",
+        "latitude": "13.037",
+        "longitude": "77.5302"
+      },
+      {
+        "store_id": "1398437",
+        "pincode": "560060",
+        "latitude": "12.9175",
+        "longitude": "77.4756"
+      },
+      {
+        "store_id": "1400922",
+        "pincode": "560060",
+        "latitude": "12.8747",
+        "longitude": "77.4604"
+      },
+      {
+        "store_id": "1387077",
+        "pincode": "560061",
+        "latitude": "12.9085",
+        "longitude": "77.5482"
+      },
+      {
+        "store_id": "1402443",
+        "pincode": "560061",
+        "latitude": "12.8605",
+        "longitude": "77.5415"
+      },
+      {
+        "store_id": "1403722",
+        "pincode": "560061",
+        "latitude": "12.8923",
+        "longitude": "77.5425"
+      },
+      {
+        "store_id": "1401248",
+        "pincode": "560062",
+        "latitude": "12.8815",
+        "longitude": "77.5667"
+      },
+      {
+        "store_id": "1403175",
+        "pincode": "560062",
+        "latitude": "12.8633",
+        "longitude": "77.569"
+      },
+      {
+        "store_id": "1404168",
+        "pincode": "560062",
+        "latitude": "12.8663",
+        "longitude": "77.5353"
+      },
+      {
+        "store_id": "1404591",
+        "pincode": "560062",
+        "latitude": "12.8929",
+        "longitude": "77.5746"
+      },
+      {
+        "store_id": "1386386",
+        "pincode": "560064",
+        "latitude": "13.1157",
+        "longitude": "77.5671"
+      },
+      {
+        "store_id": "1396660",
+        "pincode": "560064",
+        "latitude": "13.0887",
+        "longitude": "77.6318"
+      },
+      {
+        "store_id": "1399355",
+        "pincode": "560064",
+        "latitude": "13.0917",
+        "longitude": "77.6071"
+      },
+      {
+        "store_id": "1400545",
+        "pincode": "560064",
+        "latitude": "13.1337",
+        "longitude": "77.5671"
+      },
+      {
+        "store_id": "1400546",
+        "pincode": "560064",
+        "latitude": "13.0674",
+        "longitude": "77.6208"
+      },
+      {
+        "store_id": "1403515",
+        "pincode": "560064",
+        "latitude": "13.0288",
+        "longitude": "77.5452"
+      },
+      {
+        "store_id": "1404794",
+        "pincode": "560064",
+        "latitude": "13.103",
+        "longitude": "77.6299"
+      },
+      {
+        "store_id": "1386712",
+        "pincode": "560065",
+        "latitude": "13.0977",
+        "longitude": "77.567"
+      },
+      {
+        "store_id": "1387561",
+        "pincode": "560066",
+        "latitude": "12.9752",
+        "longitude": "77.7684"
+      },
+      {
+        "store_id": "1400609",
+        "pincode": "560066",
+        "latitude": "12.9535",
+        "longitude": "77.7239"
+      },
+      {
+        "store_id": "1400960",
+        "pincode": "560066",
+        "latitude": "12.9657",
+        "longitude": "77.7509"
+      },
+      {
+        "store_id": "1404581",
+        "pincode": "560066",
+        "latitude": "12.9568",
+        "longitude": "77.7363"
+      },
+      {
+        "store_id": "1380447",
+        "pincode": "560067",
+        "latitude": "13.0076",
+        "longitude": "77.7426"
+      },
+      {
+        "store_id": "1389251",
+        "pincode": "560067",
+        "latitude": "13.0076",
+        "longitude": "77.7611"
+      },
+      {
+        "store_id": "1400929",
+        "pincode": "560067",
+        "latitude": "13.0301",
+        "longitude": "77.7611"
+      },
+      {
+        "store_id": "1403019",
+        "pincode": "560067",
+        "latitude": "12.9876",
+        "longitude": "77.7297"
+      },
+      {
+        "store_id": "1404617",
+        "pincode": "560067",
+        "latitude": "12.9841",
+        "longitude": "77.7674"
+      },
+      {
+        "store_id": "1239157",
+        "pincode": "560068",
+        "latitude": "12.8725",
+        "longitude": "77.6313"
+      },
+      {
+        "store_id": "1386090",
+        "pincode": "560068",
+        "latitude": "12.9034",
+        "longitude": "77.6437"
+      },
+      {
+        "store_id": "1392660",
+        "pincode": "560068",
+        "latitude": "12.8905",
+        "longitude": "77.6499"
+      },
+      {
+        "store_id": "1395720",
+        "pincode": "560068",
+        "latitude": "12.8995",
+        "longitude": "77.6684"
+      },
+      {
+        "store_id": "1396285",
+        "pincode": "560068",
+        "latitude": "12.9139",
+        "longitude": "77.5131"
+      },
+      {
+        "store_id": "1402441",
+        "pincode": "560068",
+        "latitude": "12.8621",
+        "longitude": "77.684"
+      },
+      {
+        "store_id": "1403421",
+        "pincode": "560068",
+        "latitude": "12.8996",
+        "longitude": "77.6361"
+      },
+      {
+        "store_id": "1403723",
+        "pincode": "560068",
+        "latitude": "12.8687",
+        "longitude": "77.6161"
+      },
+      {
+        "store_id": "1404599",
+        "pincode": "560068",
+        "latitude": "12.8409",
+        "longitude": "77.6396"
+      },
+      {
+        "store_id": "1404792",
+        "pincode": "560068",
+        "latitude": "12.9011",
+        "longitude": "77.6234"
+      },
+      {
+        "store_id": "1400961",
+        "pincode": "560070",
+        "latitude": "12.9145",
+        "longitude": "77.5599"
+      },
+      {
+        "store_id": "854379",
+        "pincode": "560071",
+        "latitude": "12.9535",
+        "longitude": "77.6377"
+      },
+      {
+        "store_id": "1386385",
+        "pincode": "560072",
+        "latitude": "12.9565",
+        "longitude": "77.5052"
+      },
+      {
+        "store_id": "1402774",
+        "pincode": "560072",
+        "latitude": "12.9785",
+        "longitude": "77.5117"
+      },
+      {
+        "store_id": "1394670",
+        "pincode": "560073",
+        "latitude": "13.0504",
+        "longitude": "77.486"
+      },
+      {
+        "store_id": "1403049",
+        "pincode": "560073",
+        "latitude": "13.0536",
+        "longitude": "77.4847"
+      },
+      {
+        "store_id": "1388112",
+        "pincode": "560075",
+        "latitude": "12.9716",
+        "longitude": "77.6685"
+      },
+      {
+        "store_id": "1404614",
+        "pincode": "560075",
+        "latitude": "12.9688",
+        "longitude": "77.6634"
+      },
+      {
+        "store_id": "565139",
+        "pincode": "560075",
+        "latitude": "12.9716",
+        "longitude": "77.687"
+      },
+      {
+        "store_id": "1388681",
+        "pincode": "560076",
+        "latitude": "12.8815",
+        "longitude": "77.6129"
+      },
+      {
+        "store_id": "1397048",
+        "pincode": "560076",
+        "latitude": "12.8815",
+        "longitude": "77.5944"
+      },
+      {
+        "store_id": "1397796",
+        "pincode": "560076",
+        "latitude": "12.9111",
+        "longitude": "77.6033"
+      },
+      {
+        "store_id": "1403144",
+        "pincode": "560076",
+        "latitude": "12.8423",
+        "longitude": "77.5899"
+      },
+      {
+        "store_id": "788740",
+        "pincode": "560076",
+        "latitude": "12.8995",
+        "longitude": "77.6221"
+      },
+      {
+        "store_id": "1390217",
+        "pincode": "560077",
+        "latitude": "13.0761",
+        "longitude": "77.6798"
+      },
+      {
+        "store_id": "1394669",
+        "pincode": "560077",
+        "latitude": "13.0526",
+        "longitude": "77.6317"
+      },
+      {
+        "store_id": "1237709",
+        "pincode": "560078",
+        "latitude": "12.8995",
+        "longitude": "77.5667"
+      },
+      {
+        "store_id": "1399354",
+        "pincode": "560078",
+        "latitude": "12.9022",
+        "longitude": "77.5832"
+      },
+      {
+        "store_id": "911033",
+        "pincode": "560079",
+        "latitude": "12.9968",
+        "longitude": "77.5354"
+      },
+      {
+        "store_id": "1382707",
+        "pincode": "560083",
+        "latitude": "12.8544",
+        "longitude": "77.5851"
+      },
+      {
+        "store_id": "1401110",
+        "pincode": "560083",
+        "latitude": "12.8758",
+        "longitude": "77.5911"
+      },
+      {
+        "store_id": "788742",
+        "pincode": "560085",
+        "latitude": "12.9295",
+        "longitude": "77.5452"
+      },
+      {
+        "store_id": "1384788",
+        "pincode": "560087",
+        "latitude": "12.9355",
+        "longitude": "77.7239"
+      },
+      {
+        "store_id": "1400215",
+        "pincode": "560087",
+        "latitude": "12.9284",
+        "longitude": "77.7405"
+      },
+      {
+        "store_id": "1401247",
+        "pincode": "560087",
+        "latitude": "12.9363",
+        "longitude": "77.7033"
+      },
+      {
+        "store_id": "1402442",
+        "pincode": "560087",
+        "latitude": "12.9413",
+        "longitude": "77.7541"
+      },
+      {
+        "store_id": "1401462",
+        "pincode": "560088",
+        "latitude": "13.0637",
+        "longitude": "77.5048"
+      },
+      {
+        "store_id": "1380898",
+        "pincode": "560090",
+        "latitude": "13.0932",
+        "longitude": "77.5069"
+      },
+      {
+        "store_id": "1401714",
+        "pincode": "560091",
+        "latitude": "12.9932",
+        "longitude": "77.491"
+      },
+      {
+        "store_id": "1229990",
+        "pincode": "560092",
+        "latitude": "13.0496",
+        "longitude": "77.57"
+      },
+      {
+        "store_id": "1382349",
+        "pincode": "560092",
+        "latitude": "12.9085",
+        "longitude": "77.5944"
+      },
+      {
+        "store_id": "1401716",
+        "pincode": "560092",
+        "latitude": "13.0671",
+        "longitude": "77.5971"
+      },
+      {
+        "store_id": "1396284",
+        "pincode": "560095",
+        "latitude": "12.9265",
+        "longitude": "77.6314"
+      },
+      {
+        "store_id": "1404590",
+        "pincode": "560095",
+        "latitude": "12.9371",
+        "longitude": "77.6142"
+      },
+      {
+        "store_id": "1393565",
+        "pincode": "560097",
+        "latitude": "13.0887",
+        "longitude": "77.5393"
+      },
+      {
+        "store_id": "1403746",
+        "pincode": "560097",
+        "latitude": "13.0861",
+        "longitude": "77.5484"
+      },
+      {
+        "store_id": "1401246",
+        "pincode": "560098",
+        "latitude": "12.9585",
+        "longitude": "77.4805"
+      },
+      {
+        "store_id": "1381848",
+        "pincode": "560099",
+        "latitude": "12.7954",
+        "longitude": "77.6763"
+      },
+      {
+        "store_id": "1398438",
+        "pincode": "560099",
+        "latitude": "12.8815",
+        "longitude": "77.6776"
+      },
+      {
+        "store_id": "1402141",
+        "pincode": "560099",
+        "latitude": "12.7924",
+        "longitude": "77.7068"
+      },
+      {
+        "store_id": "1403050",
+        "pincode": "560099",
+        "latitude": "12.8429",
+        "longitude": "77.7266"
+      },
+      {
+        "store_id": "1403688",
+        "pincode": "560099",
+        "latitude": "12.8081",
+        "longitude": "77.6768"
+      },
+      {
+        "store_id": "1380710",
+        "pincode": "560100",
+        "latitude": "12.8432",
+        "longitude": "77.7075"
+      },
+      {
+        "store_id": "1385835",
+        "pincode": "560100",
+        "latitude": "12.8334",
+        "longitude": "77.6343"
+      },
+      {
+        "store_id": "1387560",
+        "pincode": "560100",
+        "latitude": "12.8154",
+        "longitude": "77.7051"
+      },
+      {
+        "store_id": "1401463",
+        "pincode": "560100",
+        "latitude": "12.8682",
+        "longitude": "77.6577"
+      },
+      {
+        "store_id": "1231052",
+        "pincode": "560102",
+        "latitude": "12.9175",
+        "longitude": "77.6499"
+      },
+      {
+        "store_id": "1390216",
+        "pincode": "560102",
+        "latitude": "12.9355",
+        "longitude": "77.6684"
+      },
+      {
+        "store_id": "1392080",
+        "pincode": "560102",
+        "latitude": "12.9111",
+        "longitude": "77.631"
+      },
+      {
+        "store_id": "1402605",
+        "pincode": "560102",
+        "latitude": "12.9139",
+        "longitude": "77.6664"
+      },
+      {
+        "store_id": "1403139",
+        "pincode": "560102",
+        "latitude": "12.9188",
+        "longitude": "77.6476"
+      },
+      {
+        "store_id": "1374258",
+        "pincode": "560103",
+        "latitude": "12.9355",
+        "longitude": "77.7054"
+      },
+      {
+        "store_id": "1382254",
+        "pincode": "560103",
+        "latitude": "12.9355",
+        "longitude": "77.6869"
+      },
+      {
+        "store_id": "1386714",
+        "pincode": "560103",
+        "latitude": "12.9175",
+        "longitude": "77.6684"
+      },
+      {
+        "store_id": "1388998",
+        "pincode": "560103",
+        "latitude": "12.9201",
+        "longitude": "77.6957"
+      },
+      {
+        "store_id": "649831",
+        "pincode": "560103",
+        "latitude": "12.9291",
+        "longitude": "77.668"
+      },
+      {
+        "store_id": "1384787",
+        "pincode": "560105",
+        "latitude": "12.8197",
+        "longitude": "77.6233"
+      },
+      {
+        "store_id": "1393562",
+        "pincode": "560105",
+        "latitude": "12.7854",
+        "longitude": "77.6558"
+      },
+      {
+        "store_id": "1403224",
+        "pincode": "560110",
+        "latitude": "12.9365",
+        "longitude": "77.4844"
+      },
+      {
+        "store_id": "1403417",
+        "pincode": "560113",
+        "latitude": "13.0433",
+        "longitude": "77.6811"
+      },
+      {
+        "store_id": "1382870",
+        "pincode": "560114",
+        "latitude": "12.8544",
+        "longitude": "77.6128"
+      },
+      {
+        "store_id": "1402440",
+        "pincode": "562106",
+        "latitude": "12.8341",
+        "longitude": "77.6664"
+      },
+      {
+        "store_id": "1402773",
+        "pincode": "562110",
+        "latitude": "13.2392",
+        "longitude": "77.7232"
+      },
+      {
+        "store_id": "1397024",
+        "pincode": "562114",
+        "latitude": "13.1247",
+        "longitude": "77.6318"
+      },
+      {
+        "store_id": "1404799",
+        "pincode": "562123",
+        "latitude": "13.1027",
+        "longitude": "77.4447"
+      },
+      {
+        "store_id": "1399695",
+        "pincode": "562125",
+        "latitude": "12.857",
+        "longitude": "77.7831"
+      },
+      {
+        "store_id": "1384139",
+        "pincode": "562135",
+        "latitude": "12.9896",
+        "longitude": "77.6686"
+      },
+      {
+        "store_id": "1404671",
+        "pincode": "562149",
+        "latitude": "13.087",
+        "longitude": "77.654"
+      }
+    ],
+    "Mumbai": [
+      {
+        "store_id": "1383130",
+        "pincode": "400001",
+        "latitude": "18.9318",
+        "longitude": "72.8296"
+      },
+      {
+        "store_id": "1404448",
+        "pincode": "400005",
+        "latitude": "18.9138",
+        "longitude": "72.8236"
+      },
+      {
+        "store_id": "1135722",
+        "pincode": "400008",
+        "latitude": "18.9588",
+        "longitude": "72.8202"
+      },
+      {
+        "store_id": "1396283",
+        "pincode": "400010",
+        "latitude": "18.9739",
+        "longitude": "72.8456"
+      },
+      {
+        "store_id": "1398760",
+        "pincode": "400014",
+        "latitude": "19.0219",
+        "longitude": "72.8489"
+      },
+      {
+        "store_id": "1381967",
+        "pincode": "400016",
+        "latitude": "19.0399",
+        "longitude": "72.8394"
+      },
+      {
+        "store_id": "1392531",
+        "pincode": "400034",
+        "latitude": "18.9859",
+        "longitude": "72.8202"
+      },
+      {
+        "store_id": "1396282",
+        "pincode": "400034",
+        "latitude": "18.9498",
+        "longitude": "72.8011"
+      },
+      {
+        "store_id": "1113109",
+        "pincode": "400037",
+        "latitude": "19.0399",
+        "longitude": "72.8775"
+      },
+      {
+        "store_id": "1396295",
+        "pincode": "400037",
+        "latitude": "19.0399",
+        "longitude": "72.8775"
+      },
+      {
+        "store_id": "1295148",
+        "pincode": "400049",
+        "latitude": "19.1109",
+        "longitude": "72.8255"
+      },
+      {
+        "store_id": "1319696",
+        "pincode": "400050",
+        "latitude": "19.076",
+        "longitude": "72.83"
+      },
+      {
+        "store_id": "969383",
+        "pincode": "400050",
+        "latitude": "19.0539",
+        "longitude": "72.8098"
+      },
+      {
+        "store_id": "1382657",
+        "pincode": "400053",
+        "latitude": "19.148",
+        "longitude": "72.8397"
+      },
+      {
+        "store_id": "1398452",
+        "pincode": "400053",
+        "latitude": "19.1387",
+        "longitude": "72.8296"
+      },
+      {
+        "store_id": "1190780",
+        "pincode": "400054",
+        "latitude": "19.094",
+        "longitude": "72.8586"
+      },
+      {
+        "store_id": "1397051",
+        "pincode": "400056",
+        "latitude": "19.112",
+        "longitude": "72.8396"
+      },
+      {
+        "store_id": "1403454",
+        "pincode": "400058",
+        "latitude": "19.1268",
+        "longitude": "72.8353"
+      },
+      {
+        "store_id": "1238358",
+        "pincode": "400060",
+        "latitude": "19.139",
+        "longitude": "72.8778"
+      },
+      {
+        "store_id": "810366",
+        "pincode": "400060",
+        "latitude": "19.13",
+        "longitude": "72.8587"
+      },
+      {
+        "store_id": "1390224",
+        "pincode": "400061",
+        "latitude": "19.1255",
+        "longitude": "72.7681"
+      },
+      {
+        "store_id": "1403842",
+        "pincode": "400062",
+        "latitude": "19.1653",
+        "longitude": "72.8467"
+      },
+      {
+        "store_id": "1230883",
+        "pincode": "400063",
+        "latitude": "19.1751",
+        "longitude": "72.8684"
+      },
+      {
+        "store_id": "1231809",
+        "pincode": "400064",
+        "latitude": "19.1931",
+        "longitude": "72.8303"
+      },
+      {
+        "store_id": "1239162",
+        "pincode": "400064",
+        "latitude": "19.1751",
+        "longitude": "72.8398"
+      },
+      {
+        "store_id": "1237261",
+        "pincode": "400066",
+        "latitude": "19.2321",
+        "longitude": "72.8654"
+      },
+      {
+        "store_id": "1400231",
+        "pincode": "400067",
+        "latitude": "19.2111",
+        "longitude": "72.8208"
+      },
+      {
+        "store_id": "1062418",
+        "pincode": "400068",
+        "latitude": "19.2561",
+        "longitude": "72.8591"
+      },
+      {
+        "store_id": "1404796",
+        "pincode": "400068",
+        "latitude": "19.2435",
+        "longitude": "72.8639"
+      },
+      {
+        "store_id": "1295147",
+        "pincode": "400069",
+        "latitude": "19.112",
+        "longitude": "72.8587"
+      },
+      {
+        "store_id": "1391897",
+        "pincode": "400071",
+        "latitude": "19.0579",
+        "longitude": "72.8967"
+      },
+      {
+        "store_id": "1384969",
+        "pincode": "400072",
+        "latitude": "19.121",
+        "longitude": "72.8969"
+      },
+      {
+        "store_id": "1399809",
+        "pincode": "400072",
+        "latitude": "19.1",
+        "longitude": "72.8841"
+      },
+      {
+        "store_id": "1387703",
+        "pincode": "400074",
+        "latitude": "19.0399",
+        "longitude": "72.8966"
+      },
+      {
+        "store_id": "1135720",
+        "pincode": "400078",
+        "latitude": "19.13",
+        "longitude": "72.9064"
+      },
+      {
+        "store_id": "1402806",
+        "pincode": "400078",
+        "latitude": "19.1395",
+        "longitude": "72.9288"
+      },
+      {
+        "store_id": "788745",
+        "pincode": "400078",
+        "latitude": "19.157",
+        "longitude": "72.9447"
+      },
+      {
+        "store_id": "1278165",
+        "pincode": "400080",
+        "latitude": "19.166",
+        "longitude": "72.9542"
+      },
+      {
+        "store_id": "1402264",
+        "pincode": "400080",
+        "latitude": "19.1847",
+        "longitude": "72.9486"
+      },
+      {
+        "store_id": "810367",
+        "pincode": "400083",
+        "latitude": "19.1228",
+        "longitude": "72.9274"
+      },
+      {
+        "store_id": "1062416",
+        "pincode": "400086",
+        "latitude": "19.076",
+        "longitude": "72.8777"
+      },
+      {
+        "store_id": "1298955",
+        "pincode": "400086",
+        "latitude": "19.085",
+        "longitude": "72.9253"
+      },
+      {
+        "store_id": "1381500",
+        "pincode": "400088",
+        "latitude": "19.0399",
+        "longitude": "72.9347"
+      },
+      {
+        "store_id": "1381966",
+        "pincode": "400089",
+        "latitude": "19.0489",
+        "longitude": "72.8966"
+      },
+      {
+        "store_id": "1403051",
+        "pincode": "400092",
+        "latitude": "19.2291",
+        "longitude": "72.8399"
+      },
+      {
+        "store_id": "762615",
+        "pincode": "400092",
+        "latitude": "19.2291",
+        "longitude": "72.8399"
+      },
+      {
+        "store_id": "1402064",
+        "pincode": "400097",
+        "latitude": "19.179",
+        "longitude": "72.874"
+      },
+      {
+        "store_id": "1403030",
+        "pincode": "400098",
+        "latitude": "19.071",
+        "longitude": "72.8647"
+      },
+      {
+        "store_id": "1404645",
+        "pincode": "400099",
+        "latitude": "",
+        "longitude": ""
+      },
+      {
+        "store_id": "1190779",
+        "pincode": "400101",
+        "latitude": "19.2021",
+        "longitude": "72.8589"
+      },
+      {
+        "store_id": "1382439",
+        "pincode": "400101",
+        "latitude": "19.2021",
+        "longitude": "72.8844"
+      },
+      {
+        "store_id": "1135721",
+        "pincode": "400102",
+        "latitude": "19.124",
+        "longitude": "72.842"
+      },
+      {
+        "store_id": "1404681",
+        "pincode": "400601",
+        "latitude": "19.2159",
+        "longitude": "72.9765"
+      },
+      {
+        "store_id": "1404751",
+        "pincode": "400602",
+        "latitude": "19.1846",
+        "longitude": "72.9675"
+      },
+      {
+        "store_id": "929911",
+        "pincode": "400604",
+        "latitude": "19.1932",
+        "longitude": "72.9567"
+      },
+      {
+        "store_id": "1400553",
+        "pincode": "400605",
+        "latitude": "19.2021",
+        "longitude": "73.002"
+      },
+      {
+        "store_id": "1404771",
+        "pincode": "400606",
+        "latitude": "19.2184",
+        "longitude": "72.9531"
+      },
+      {
+        "store_id": "1267915",
+        "pincode": "400607",
+        "latitude": "19.2621",
+        "longitude": "72.9864"
+      },
+      {
+        "store_id": "1336659",
+        "pincode": "400607",
+        "latitude": "19.2246",
+        "longitude": "72.9592"
+      },
+      {
+        "store_id": "1381643",
+        "pincode": "400607",
+        "latitude": "19.2111",
+        "longitude": "72.9925"
+      },
+      {
+        "store_id": "1396296",
+        "pincode": "400607",
+        "latitude": "19.2651",
+        "longitude": "72.9641"
+      },
+      {
+        "store_id": "1401485",
+        "pincode": "400607",
+        "latitude": "19.2262",
+        "longitude": "72.9833"
+      },
+      {
+        "store_id": "1403034",
+        "pincode": "400607",
+        "latitude": "19.2326",
+        "longitude": "72.9937"
+      },
+      {
+        "store_id": "1404646",
+        "pincode": "400607",
+        "latitude": "",
+        "longitude": ""
+      },
+      {
+        "store_id": "1084119",
+        "pincode": "400614",
+        "latitude": "19.0129",
+        "longitude": "73.0299"
+      },
+      {
+        "store_id": "1403032",
+        "pincode": "400614",
+        "latitude": "19.0153",
+        "longitude": "73.0425"
+      },
+      {
+        "store_id": "1381561",
+        "pincode": "400615",
+        "latitude": "19.2761",
+        "longitude": "72.9602"
+      },
+      {
+        "store_id": "1402785",
+        "pincode": "400615",
+        "latitude": "19.2754",
+        "longitude": "72.9588"
+      },
+      {
+        "store_id": "1385645",
+        "pincode": "400701",
+        "latitude": "19.115",
+        "longitude": "73.0049"
+      },
+      {
+        "store_id": "1398759",
+        "pincode": "400701",
+        "latitude": "19.1426",
+        "longitude": "72.9913"
+      },
+      {
+        "store_id": "1404805",
+        "pincode": "400701",
+        "latitude": "19.1132",
+        "longitude": "73.0071"
+      },
+      {
+        "store_id": "1403210",
+        "pincode": "400703",
+        "latitude": "19.0848",
+        "longitude": "73.0091"
+      },
+      {
+        "store_id": "1388688",
+        "pincode": "400705",
+        "latitude": "19.0579",
+        "longitude": "73.011"
+      },
+      {
+        "store_id": "1335483",
+        "pincode": "400706",
+        "latitude": "19.0061",
+        "longitude": "72.9894"
+      },
+      {
+        "store_id": "1383573",
+        "pincode": "400706",
+        "latitude": "19.0444",
+        "longitude": "73.0158"
+      },
+      {
+        "store_id": "1404757",
+        "pincode": "400706",
+        "latitude": "19.0396",
+        "longitude": "73.0095"
+      },
+      {
+        "store_id": "1389632",
+        "pincode": "400708",
+        "latitude": "19.1655",
+        "longitude": "72.9966"
+      },
+      {
+        "store_id": "1388687",
+        "pincode": "401105",
+        "latitude": "19.3102",
+        "longitude": "72.8592"
+      },
+      {
+        "store_id": "1346590",
+        "pincode": "401107",
+        "latitude": "19.2862",
+        "longitude": "72.891"
+      },
+      {
+        "store_id": "1404642",
+        "pincode": "401107",
+        "latitude": "",
+        "longitude": ""
+      },
+      {
+        "store_id": "1404877",
+        "pincode": "401107",
+        "latitude": "19.2676",
+        "longitude": "72.878"
+      },
+      {
+        "store_id": "1314371",
+        "pincode": "401201",
+        "latitude": "19.3757",
+        "longitude": "72.8247"
+      },
+      {
+        "store_id": "1404876",
+        "pincode": "401203",
+        "latitude": "19.4242",
+        "longitude": "72.8115"
+      },
+      {
+        "store_id": "1388686",
+        "pincode": "401209",
+        "latitude": "19.4123",
+        "longitude": "72.8341"
+      },
+      {
+        "store_id": "1238356",
+        "pincode": "410206",
+        "latitude": "18.9975",
+        "longitude": "73.1118"
+      },
+      {
+        "store_id": "1400977",
+        "pincode": "410206",
+        "latitude": "18.9808",
+        "longitude": "73.1133"
+      },
+      {
+        "store_id": "1401265",
+        "pincode": "410206",
+        "latitude": "19.0173",
+        "longitude": "73.1012"
+      },
+      {
+        "store_id": "1402458",
+        "pincode": "410206",
+        "latitude": "18.9695",
+        "longitude": "73.0233"
+      },
+      {
+        "store_id": "1403211",
+        "pincode": "410206",
+        "latitude": "18.9987",
+        "longitude": "73.1116"
+      },
+      {
+        "store_id": "1402459",
+        "pincode": "410208",
+        "latitude": "19.072",
+        "longitude": "73.0956"
+      },
+      {
+        "store_id": "1082435",
+        "pincode": "410210",
+        "latitude": "19.0579",
+        "longitude": "73.0778"
+      },
+      {
+        "store_id": "1380959",
+        "pincode": "410210",
+        "latitude": "19.0309",
+        "longitude": "73.0681"
+      },
+      {
+        "store_id": "1386846",
+        "pincode": "410210",
+        "latitude": "19.0805",
+        "longitude": "73.085"
+      },
+      {
+        "store_id": "1404760",
+        "pincode": "410210",
+        "latitude": "19.0414",
+        "longitude": "73.0711"
+      },
+      {
+        "store_id": "1403216",
+        "pincode": "410218",
+        "latitude": "19.0439",
+        "longitude": "73.098"
+      },
+      {
+        "store_id": "1402063",
+        "pincode": "410303",
+        "latitude": "19.4705",
+        "longitude": "72.8088"
+      },
+      {
+        "store_id": "1400554",
+        "pincode": "421201",
+        "latitude": "19.2021",
+        "longitude": "73.1261"
+      },
+      {
+        "store_id": "1402062",
+        "pincode": "421201",
+        "latitude": "19.2187",
+        "longitude": "73.1069"
+      },
+      {
+        "store_id": "1399706",
+        "pincode": "421202",
+        "latitude": "19.2266",
+        "longitude": "73.0833"
+      },
+      {
+        "store_id": "1238357",
+        "pincode": "421203",
+        "latitude": "19.2073",
+        "longitude": "73.0983"
+      },
+      {
+        "store_id": "1401266",
+        "pincode": "421203",
+        "latitude": "19.1884",
+        "longitude": "73.0946"
+      },
+      {
+        "store_id": "1386534",
+        "pincode": "421204",
+        "latitude": "19.156",
+        "longitude": "73.1258"
+      },
+      {
+        "store_id": "1395728",
+        "pincode": "421204",
+        "latitude": "19.1637",
+        "longitude": "73.076"
+      },
+      {
+        "store_id": "1402784",
+        "pincode": "421204",
+        "latitude": "19.1557",
+        "longitude": "73.0749"
+      },
+      {
+        "store_id": "1390223",
+        "pincode": "421301",
+        "latitude": "19.2544",
+        "longitude": "73.1399"
+      },
+      {
+        "store_id": "1388387",
+        "pincode": "421306",
+        "latitude": "19.2141",
+        "longitude": "73.1388"
+      },
+      {
+        "store_id": "1401483",
+        "pincode": "421501",
+        "latitude": "19.1982",
+        "longitude": "73.2003"
+      },
+      {
+        "store_id": "1403692",
+        "pincode": "421503",
+        "latitude": "19.1594",
+        "longitude": "73.2277"
+      }
+    ],
+    "Hyderabad": [
+      {
+        "store_id": "1397628",
+        "pincode": "500001",
+        "latitude": "17.385",
+        "longitude": "78.4867"
+      },
+      {
+        "store_id": "1404748",
+        "pincode": "500001",
+        "latitude": "17.403",
+        "longitude": "78.3891"
+      },
+      {
+        "store_id": "988472",
+        "pincode": "500004",
+        "latitude": "17.3805",
+        "longitude": "78.4489"
+      },
+      {
+        "store_id": "1385944",
+        "pincode": "500007",
+        "latitude": "17.3994",
+        "longitude": "78.5433"
+      },
+      {
+        "store_id": "816649",
+        "pincode": "500007",
+        "latitude": "17.439",
+        "longitude": "78.5529"
+      },
+      {
+        "store_id": "1382981",
+        "pincode": "500008",
+        "latitude": "17.391",
+        "longitude": "78.4049"
+      },
+      {
+        "store_id": "1155153",
+        "pincode": "500011",
+        "latitude": "17.4622",
+        "longitude": "78.4869"
+      },
+      {
+        "store_id": "1388312",
+        "pincode": "500014",
+        "latitude": "17.5471",
+        "longitude": "78.4757"
+      },
+      {
+        "store_id": "1381278",
+        "pincode": "500015",
+        "latitude": "17.5111",
+        "longitude": "78.4519"
+      },
+      {
+        "store_id": "1404826",
+        "pincode": "500015",
+        "latitude": "17.4997",
+        "longitude": "78.5104"
+      },
+      {
+        "store_id": "1402983",
+        "pincode": "500016",
+        "latitude": "17.439",
+        "longitude": "78.4679"
+      },
+      {
+        "store_id": "1389638",
+        "pincode": "500018",
+        "latitude": "17.457",
+        "longitude": "78.4113"
+      },
+      {
+        "store_id": "1393827",
+        "pincode": "500018",
+        "latitude": "17.469",
+        "longitude": "78.4239"
+      },
+      {
+        "store_id": "1382391",
+        "pincode": "500019",
+        "latitude": "17.475",
+        "longitude": "78.3358"
+      },
+      {
+        "store_id": "1386269",
+        "pincode": "500019",
+        "latitude": "17.475",
+        "longitude": "78.3358"
+      },
+      {
+        "store_id": "1401258",
+        "pincode": "500019",
+        "latitude": "17.4457",
+        "longitude": "78.2798"
+      },
+      {
+        "store_id": "1401471",
+        "pincode": "500019",
+        "latitude": "17.4875",
+        "longitude": "78.3202"
+      },
+      {
+        "store_id": "1401473",
+        "pincode": "500019",
+        "latitude": "17.4748",
+        "longitude": "78.4985"
+      },
+      {
+        "store_id": "1404622",
+        "pincode": "500019",
+        "latitude": "17.4691",
+        "longitude": "78.3068"
+      },
+      {
+        "store_id": "1382255",
+        "pincode": "500020",
+        "latitude": "17.409",
+        "longitude": "78.493"
+      },
+      {
+        "store_id": "1399810",
+        "pincode": "500020",
+        "latitude": "17.402",
+        "longitude": "78.5032"
+      },
+      {
+        "store_id": "1385839",
+        "pincode": "500025",
+        "latitude": "17.427",
+        "longitude": "78.5119"
+      },
+      {
+        "store_id": "1393828",
+        "pincode": "500026",
+        "latitude": "17.439",
+        "longitude": "78.4868"
+      },
+      {
+        "store_id": "1381355",
+        "pincode": "500027",
+        "latitude": "17.394",
+        "longitude": "78.515"
+      },
+      {
+        "store_id": "1400550",
+        "pincode": "500028",
+        "latitude": "17.385",
+        "longitude": "78.43"
+      },
+      {
+        "store_id": "1404758",
+        "pincode": "500028",
+        "latitude": "17.4117",
+        "longitude": "78.4359"
+      },
+      {
+        "store_id": "1385563",
+        "pincode": "500032",
+        "latitude": "17.4246",
+        "longitude": "78.3243"
+      },
+      {
+        "store_id": "1387565",
+        "pincode": "500032",
+        "latitude": "17.421",
+        "longitude": "78.364"
+      },
+      {
+        "store_id": "1400561",
+        "pincode": "500032",
+        "latitude": "17.445",
+        "longitude": "78.3546"
+      },
+      {
+        "store_id": "1404816",
+        "pincode": "500032",
+        "latitude": "17.4353",
+        "longitude": "78.3681"
+      },
+      {
+        "store_id": "1383572",
+        "pincode": "500033",
+        "latitude": "17.421",
+        "longitude": "78.3923"
+      },
+      {
+        "store_id": "1229994",
+        "pincode": "500034",
+        "latitude": "17.421",
+        "longitude": "78.4395"
+      },
+      {
+        "store_id": "1267913",
+        "pincode": "500034",
+        "latitude": "17.403",
+        "longitude": "78.4489"
+      },
+      {
+        "store_id": "762613",
+        "pincode": "500035",
+        "latitude": "17.3706",
+        "longitude": "78.5403"
+      },
+      {
+        "store_id": "1398749",
+        "pincode": "500036",
+        "latitude": "17.3669",
+        "longitude": "78.5055"
+      },
+      {
+        "store_id": "1400221",
+        "pincode": "500036",
+        "latitude": "17.3669",
+        "longitude": "78.5055"
+      },
+      {
+        "store_id": "1402449",
+        "pincode": "500038",
+        "latitude": "17.4478",
+        "longitude": "78.4495"
+      },
+      {
+        "store_id": "1396294",
+        "pincode": "500039",
+        "latitude": "17.412",
+        "longitude": "78.5717"
+      },
+      {
+        "store_id": "1398441",
+        "pincode": "500040",
+        "latitude": "17.46",
+        "longitude": "78.5687"
+      },
+      {
+        "store_id": "886521",
+        "pincode": "500045",
+        "latitude": "17.439",
+        "longitude": "78.4301"
+      },
+      {
+        "store_id": "1396289",
+        "pincode": "500047",
+        "latitude": "17.448",
+        "longitude": "78.5246"
+      },
+      {
+        "store_id": "1380523",
+        "pincode": "500048",
+        "latitude": "17.3669",
+        "longitude": "78.3922"
+      },
+      {
+        "store_id": "1386816",
+        "pincode": "500048",
+        "latitude": "17.3579",
+        "longitude": "78.4205"
+      },
+      {
+        "store_id": "1261840",
+        "pincode": "500049",
+        "latitude": "17.4931",
+        "longitude": "78.3547"
+      },
+      {
+        "store_id": "1388311",
+        "pincode": "500050",
+        "latitude": "17.5021",
+        "longitude": "78.3075"
+      },
+      {
+        "store_id": "1404607",
+        "pincode": "500050",
+        "latitude": "17.5074",
+        "longitude": "78.3356"
+      },
+      {
+        "store_id": "810364",
+        "pincode": "500050",
+        "latitude": "17.5021",
+        "longitude": "78.3453"
+      },
+      {
+        "store_id": "1402448",
+        "pincode": "500052",
+        "latitude": "17.3321",
+        "longitude": "78.4391"
+      },
+      {
+        "store_id": "1401107",
+        "pincode": "500055",
+        "latitude": "17.5273",
+        "longitude": "78.4184"
+      },
+      {
+        "store_id": "1404574",
+        "pincode": "500059",
+        "latitude": "17.3614",
+        "longitude": "78.5222"
+      },
+      {
+        "store_id": "1404848",
+        "pincode": "500059",
+        "latitude": "17.3521",
+        "longitude": "78.5078"
+      },
+      {
+        "store_id": "1402257",
+        "pincode": "500062",
+        "latitude": "17.4952",
+        "longitude": "78.5649"
+      },
+      {
+        "store_id": "1402610",
+        "pincode": "500062",
+        "latitude": "17.4831",
+        "longitude": "78.5417"
+      },
+      {
+        "store_id": "1400220",
+        "pincode": "500065",
+        "latitude": "17.3568",
+        "longitude": "78.4745"
+      },
+      {
+        "store_id": "1386717",
+        "pincode": "500067",
+        "latitude": "17.5111",
+        "longitude": "78.487"
+      },
+      {
+        "store_id": "1403835",
+        "pincode": "500068",
+        "latitude": "17.3631",
+        "longitude": "78.5576"
+      },
+      {
+        "store_id": "1404860",
+        "pincode": "500068",
+        "latitude": "17.3705",
+        "longitude": "78.5723"
+      },
+      {
+        "store_id": "1391894",
+        "pincode": "500070",
+        "latitude": "17.3219",
+        "longitude": "78.529"
+      },
+      {
+        "store_id": "1392530",
+        "pincode": "500070",
+        "latitude": "17.3309",
+        "longitude": "78.5715"
+      },
+      {
+        "store_id": "1389688",
+        "pincode": "500072",
+        "latitude": "17.4992",
+        "longitude": "78.4138"
+      },
+      {
+        "store_id": "1404791",
+        "pincode": "500072",
+        "latitude": "17.4892",
+        "longitude": "78.4205"
+      },
+      {
+        "store_id": "1404605",
+        "pincode": "500074",
+        "latitude": "17.3434",
+        "longitude": "78.554"
+      },
+      {
+        "store_id": "1084118",
+        "pincode": "500075",
+        "latitude": "17.394",
+        "longitude": "78.3356"
+      },
+      {
+        "store_id": "1404660",
+        "pincode": "500075",
+        "latitude": "",
+        "longitude": ""
+      },
+      {
+        "store_id": "1404789",
+        "pincode": "500075",
+        "latitude": "17.3858",
+        "longitude": "78.3448"
+      },
+      {
+        "store_id": "1401257",
+        "pincode": "500076",
+        "latitude": "17.4469",
+        "longitude": "78.573"
+      },
+      {
+        "store_id": "1402256",
+        "pincode": "500076",
+        "latitude": "17.4364",
+        "longitude": "78.5531"
+      },
+      {
+        "store_id": "1404664",
+        "pincode": "500079",
+        "latitude": "17.3413",
+        "longitude": "78.5284"
+      },
+      {
+        "store_id": "1380712",
+        "pincode": "500081",
+        "latitude": "17.4533",
+        "longitude": "78.3638"
+      },
+      {
+        "store_id": "1381356",
+        "pincode": "500081",
+        "latitude": "17.4425",
+        "longitude": "78.3879"
+      },
+      {
+        "store_id": "1404783",
+        "pincode": "500081",
+        "latitude": "17.4384",
+        "longitude": "78.3875"
+      },
+      {
+        "store_id": "737088",
+        "pincode": "500081",
+        "latitude": "17.4389",
+        "longitude": "78.3982"
+      },
+      {
+        "store_id": "1386716",
+        "pincode": "500082",
+        "latitude": "17.5381",
+        "longitude": "78.5185"
+      },
+      {
+        "store_id": "1388385",
+        "pincode": "500083",
+        "latitude": "17.5111",
+        "longitude": "78.5909"
+      },
+      {
+        "store_id": "1061926",
+        "pincode": "500084",
+        "latitude": "17.457",
+        "longitude": "78.3546"
+      },
+      {
+        "store_id": "1386094",
+        "pincode": "500084",
+        "latitude": "17.475",
+        "longitude": "78.3641"
+      },
+      {
+        "store_id": "1397057",
+        "pincode": "500084",
+        "latitude": "17.457",
+        "longitude": "78.3924"
+      },
+      {
+        "store_id": "1383129",
+        "pincode": "500085",
+        "latitude": "17.475",
+        "longitude": "78.3924"
+      },
+      {
+        "store_id": "1386093",
+        "pincode": "500085",
+        "latitude": "17.4931",
+        "longitude": "78.383"
+      },
+      {
+        "store_id": "1401472",
+        "pincode": "500085",
+        "latitude": "17.5064",
+        "longitude": "78.4052"
+      },
+      {
+        "store_id": "1404811",
+        "pincode": "500086",
+        "latitude": "17.3445",
+        "longitude": "78.3922"
+      },
+      {
+        "store_id": "1237254",
+        "pincode": "500087",
+        "latitude": "17.5183",
+        "longitude": "78.5475"
+      },
+      {
+        "store_id": "1386268",
+        "pincode": "500089",
+        "latitude": "17.407",
+        "longitude": "78.3792"
+      },
+      {
+        "store_id": "1396293",
+        "pincode": "500089",
+        "latitude": "17.3873",
+        "longitude": "78.366"
+      },
+      {
+        "store_id": "1398453",
+        "pincode": "500089",
+        "latitude": "17.403",
+        "longitude": "78.3747"
+      },
+      {
+        "store_id": "1401470",
+        "pincode": "500089",
+        "latitude": "17.4132",
+        "longitude": "78.377"
+      },
+      {
+        "store_id": "1082432",
+        "pincode": "500090",
+        "latitude": "17.5435",
+        "longitude": "78.4039"
+      },
+      {
+        "store_id": "1238352",
+        "pincode": "500090",
+        "latitude": "17.5231",
+        "longitude": "78.3673"
+      },
+      {
+        "store_id": "1387564",
+        "pincode": "500090",
+        "latitude": "17.5606",
+        "longitude": "78.3643"
+      },
+      {
+        "store_id": "1396027",
+        "pincode": "500090",
+        "latitude": "17.5111",
+        "longitude": "78.3925"
+      },
+      {
+        "store_id": "1402058",
+        "pincode": "500098",
+        "latitude": "17.409",
+        "longitude": "78.6"
+      },
+      {
+        "store_id": "1386815",
+        "pincode": "502032",
+        "latitude": "17.457",
+        "longitude": "78.298"
+      },
+      {
+        "store_id": "1387634",
+        "pincode": "502032",
+        "latitude": "17.5404",
+        "longitude": "78.2934"
+      },
+      {
+        "store_id": "1402611",
+        "pincode": "502032",
+        "latitude": "17.5293",
+        "longitude": "78.3248"
+      },
+      {
+        "store_id": "1404582",
+        "pincode": "502032",
+        "latitude": "17.5077",
+        "longitude": "78.3023"
+      },
+      {
+        "store_id": "1404773",
+        "pincode": "502032",
+        "latitude": "17.4637",
+        "longitude": "78.2892"
+      },
+      {
+        "store_id": "1381160",
+        "pincode": "502221",
+        "latitude": "17.421",
+        "longitude": "78.2979"
+      }
+    ],
+    "Chennai": [
+      {
+        "store_id": "1402050",
+        "pincode": "600001",
+        "latitude": "13.0898",
+        "longitude": "80.2865"
+      },
+      {
+        "store_id": "1400603",
+        "pincode": "600002",
+        "latitude": "13.0691",
+        "longitude": "80.2891"
+      },
+      {
+        "store_id": "1404766",
+        "pincode": "600004",
+        "latitude": "13.0295",
+        "longitude": "80.2748"
+      },
+      {
+        "store_id": "1386974",
+        "pincode": "600007",
+        "latitude": "13.0872",
+        "longitude": "80.2522"
+      },
+      {
+        "store_id": "1404451",
+        "pincode": "600010",
+        "latitude": "13.0838",
+        "longitude": "80.2344"
+      },
+      {
+        "store_id": "1404851",
+        "pincode": "600012",
+        "latitude": "13.0989",
+        "longitude": "80.2508"
+      },
+      {
+        "store_id": "1400604",
+        "pincode": "600014",
+        "latitude": "13.0556",
+        "longitude": "80.3076"
+      },
+      {
+        "store_id": "1386941",
+        "pincode": "600017",
+        "latitude": "13.0286",
+        "longitude": "80.2336"
+      },
+      {
+        "store_id": "1395426",
+        "pincode": "600018",
+        "latitude": "13.0241",
+        "longitude": "80.2752"
+      },
+      {
+        "store_id": "1401251",
+        "pincode": "600018",
+        "latitude": "13.0348",
+        "longitude": "80.2456"
+      },
+      {
+        "store_id": "1403177",
+        "pincode": "600019",
+        "latitude": "13.1663",
+        "longitude": "80.2953"
+      },
+      {
+        "store_id": "1369819",
+        "pincode": "600020",
+        "latitude": "13.0034",
+        "longitude": "80.2705"
+      },
+      {
+        "store_id": "1390222",
+        "pincode": "600021",
+        "latitude": "13.1067",
+        "longitude": "80.3015"
+      },
+      {
+        "store_id": "1399696",
+        "pincode": "600024",
+        "latitude": "13.0646",
+        "longitude": "80.2151"
+      },
+      {
+        "store_id": "1403313",
+        "pincode": "600029",
+        "latitude": "13.0767",
+        "longitude": "80.1255"
+      },
+      {
+        "store_id": "1404837",
+        "pincode": "600031",
+        "latitude": "13.0726",
+        "longitude": "80.2478"
+      },
+      {
+        "store_id": "1386448",
+        "pincode": "600034",
+        "latitude": "13.0646",
+        "longitude": "80.2521"
+      },
+      {
+        "store_id": "1386813",
+        "pincode": "600037",
+        "latitude": "13.0736",
+        "longitude": "80.1781"
+      },
+      {
+        "store_id": "1382426",
+        "pincode": "600040",
+        "latitude": "13.0827",
+        "longitude": "80.2152"
+      },
+      {
+        "store_id": "1403023",
+        "pincode": "600040",
+        "latitude": "13.0827",
+        "longitude": "80.2152"
+      },
+      {
+        "store_id": "1388683",
+        "pincode": "600041",
+        "latitude": "12.9631",
+        "longitude": "80.2822"
+      },
+      {
+        "store_id": "1404665",
+        "pincode": "600041",
+        "latitude": "12.9879",
+        "longitude": "80.2539"
+      },
+      {
+        "store_id": "1404667",
+        "pincode": "600041",
+        "latitude": "12.9879",
+        "longitude": "80.2538"
+      },
+      {
+        "store_id": "1397630",
+        "pincode": "600042",
+        "latitude": "12.9655",
+        "longitude": "80.215"
+      },
+      {
+        "store_id": "854384",
+        "pincode": "600043",
+        "latitude": "12.9655",
+        "longitude": "80.1595"
+      },
+      {
+        "store_id": "1390221",
+        "pincode": "600044",
+        "latitude": "12.9454",
+        "longitude": "80.1359"
+      },
+      {
+        "store_id": "1401250",
+        "pincode": "600044",
+        "latitude": "12.9658",
+        "longitude": "80.1089"
+      },
+      {
+        "store_id": "1386264",
+        "pincode": "600045",
+        "latitude": "12.9256",
+        "longitude": "80.104"
+      },
+      {
+        "store_id": "1400965",
+        "pincode": "600048",
+        "latitude": "12.9107",
+        "longitude": "80.07"
+      },
+      {
+        "store_id": "1404843",
+        "pincode": "600048",
+        "latitude": "12.8444",
+        "longitude": "80.1496"
+      },
+      {
+        "store_id": "1399698",
+        "pincode": "600050",
+        "latitude": "13.1007",
+        "longitude": "80.1782"
+      },
+      {
+        "store_id": "1387907",
+        "pincode": "600053",
+        "latitude": "13.1259",
+        "longitude": "80.156"
+      },
+      {
+        "store_id": "1403025",
+        "pincode": "600053",
+        "latitude": "13.1261",
+        "longitude": "80.1244"
+      },
+      {
+        "store_id": "1393566",
+        "pincode": "600056",
+        "latitude": "13.0286",
+        "longitude": "80.1318"
+      },
+      {
+        "store_id": "1393567",
+        "pincode": "600056",
+        "latitude": "13.0502",
+        "longitude": "80.1041"
+      },
+      {
+        "store_id": "1403357",
+        "pincode": "600058",
+        "latitude": "13.0957",
+        "longitude": "80.1499"
+      },
+      {
+        "store_id": "1397026",
+        "pincode": "600064",
+        "latitude": "12.9325",
+        "longitude": "80.1471"
+      },
+      {
+        "store_id": "810362",
+        "pincode": "600068",
+        "latitude": "12.9836",
+        "longitude": "80.2612"
+      },
+      {
+        "store_id": "1401467",
+        "pincode": "600071",
+        "latitude": "13.0947",
+        "longitude": "80.1071"
+      },
+      {
+        "store_id": "1395723",
+        "pincode": "600073",
+        "latitude": "12.9025",
+        "longitude": "80.1779"
+      },
+      {
+        "store_id": "1389252",
+        "pincode": "600075",
+        "latitude": "12.9768",
+        "longitude": "80.1295"
+      },
+      {
+        "store_id": "1404648",
+        "pincode": "600076",
+        "latitude": "13.1238",
+        "longitude": "80.1944"
+      },
+      {
+        "store_id": "1402801",
+        "pincode": "600077",
+        "latitude": "13.0689",
+        "longitude": "80.2244"
+      },
+      {
+        "store_id": "1396287",
+        "pincode": "600080",
+        "latitude": "13.1412",
+        "longitude": "80.1921"
+      },
+      {
+        "store_id": "1401249",
+        "pincode": "600081",
+        "latitude": "13.1337",
+        "longitude": "80.2926"
+      },
+      {
+        "store_id": "1398439",
+        "pincode": "600082",
+        "latitude": "13.1187",
+        "longitude": "80.243"
+      },
+      {
+        "store_id": "1399697",
+        "pincode": "600083",
+        "latitude": "13.0286",
+        "longitude": "80.2058"
+      },
+      {
+        "store_id": "1404774",
+        "pincode": "600084",
+        "latitude": "13.0808",
+        "longitude": "80.2562"
+      },
+      {
+        "store_id": "1404806",
+        "pincode": "600085",
+        "latitude": "13.0154",
+        "longitude": "80.2462"
+      },
+      {
+        "store_id": "1386266",
+        "pincode": "600087",
+        "latitude": "13.0466",
+        "longitude": "80.1596"
+      },
+      {
+        "store_id": "1381276",
+        "pincode": "600088",
+        "latitude": "12.9971",
+        "longitude": "80.2012"
+      },
+      {
+        "store_id": "1349401",
+        "pincode": "600091",
+        "latitude": "12.9745",
+        "longitude": "80.1965"
+      },
+      {
+        "store_id": "1402049",
+        "pincode": "600091",
+        "latitude": "12.9549",
+        "longitude": "80.2057"
+      },
+      {
+        "store_id": "1230880",
+        "pincode": "600092",
+        "latitude": "13.0646",
+        "longitude": "80.1966"
+      },
+      {
+        "store_id": "1404708",
+        "pincode": "600092",
+        "latitude": "13.0626",
+        "longitude": "80.1977"
+      },
+      {
+        "store_id": "1380670",
+        "pincode": "600095",
+        "latitude": "13.0785",
+        "longitude": "80.1498"
+      },
+      {
+        "store_id": "1398756",
+        "pincode": "600095",
+        "latitude": "13.0747",
+        "longitude": "80.168"
+      },
+      {
+        "store_id": "1401653",
+        "pincode": "600095",
+        "latitude": "13.0533",
+        "longitude": "80.1504"
+      },
+      {
+        "store_id": "1386265",
+        "pincode": "600097",
+        "latitude": "12.9445",
+        "longitude": "80.2396"
+      },
+      {
+        "store_id": "1237710",
+        "pincode": "600099",
+        "latitude": "13.1007",
+        "longitude": "80.2152"
+      },
+      {
+        "store_id": "1002694",
+        "pincode": "600100",
+        "latitude": "12.9385",
+        "longitude": "80.2057"
+      },
+      {
+        "store_id": "1385476",
+        "pincode": "600100",
+        "latitude": "12.9145",
+        "longitude": "80.1964"
+      },
+      {
+        "store_id": "1388138",
+        "pincode": "600100",
+        "latitude": "12.9025",
+        "longitude": "80.2056"
+      },
+      {
+        "store_id": "1404588",
+        "pincode": "600100",
+        "latitude": "12.9136",
+        "longitude": "80.1798"
+      },
+      {
+        "store_id": "1403832",
+        "pincode": "600107",
+        "latitude": "13.0578",
+        "longitude": "80.1797"
+      },
+      {
+        "store_id": "1400219",
+        "pincode": "600110",
+        "latitude": "13.1573",
+        "longitude": "80.2206"
+      },
+      {
+        "store_id": "1383824",
+        "pincode": "600115",
+        "latitude": "12.9205",
+        "longitude": "80.2519"
+      },
+      {
+        "store_id": "1386449",
+        "pincode": "600116",
+        "latitude": "13.0294",
+        "longitude": "80.1704"
+      },
+      {
+        "store_id": "1400923",
+        "pincode": "600116",
+        "latitude": "13.0162",
+        "longitude": "80.1391"
+      },
+      {
+        "store_id": "1394671",
+        "pincode": "600117",
+        "latitude": "12.9565",
+        "longitude": "80.1826"
+      },
+      {
+        "store_id": "1404790",
+        "pincode": "600117",
+        "latitude": "12.9627",
+        "longitude": "80.1672"
+      },
+      {
+        "store_id": "1402775",
+        "pincode": "600118",
+        "latitude": "13.1285",
+        "longitude": "80.2503"
+      },
+      {
+        "store_id": "1386267",
+        "pincode": "600119",
+        "latitude": "12.8917",
+        "longitude": "80.2518"
+      },
+      {
+        "store_id": "1391892",
+        "pincode": "600119",
+        "latitude": "12.8767",
+        "longitude": "80.2148"
+      },
+      {
+        "store_id": "1403833",
+        "pincode": "600122",
+        "latitude": "13.031",
+        "longitude": "80.114"
+      },
+      {
+        "store_id": "1402445",
+        "pincode": "600125",
+        "latitude": "13.0177",
+        "longitude": "80.1665"
+      },
+      {
+        "store_id": "1381753",
+        "pincode": "600126",
+        "latitude": "12.8935",
+        "longitude": "80.1409"
+      },
+      {
+        "store_id": "1402802",
+        "pincode": "600126",
+        "latitude": "12.8851",
+        "longitude": "80.1506"
+      },
+      {
+        "store_id": "1402246",
+        "pincode": "600130",
+        "latitude": "12.8467",
+        "longitude": "80.2115"
+      },
+      {
+        "store_id": "1403143",
+        "pincode": "602001",
+        "latitude": "13.134",
+        "longitude": "79.9132"
+      },
+      {
+        "store_id": "1398440",
+        "pincode": "603004",
+        "latitude": "12.7304",
+        "longitude": "79.9973"
+      },
+      {
+        "store_id": "1380531",
+        "pincode": "603103",
+        "latitude": "12.7914",
+        "longitude": "80.2181"
+      },
+      {
+        "store_id": "1385475",
+        "pincode": "603103",
+        "latitude": "12.7982",
+        "longitude": "80.2244"
+      },
+      {
+        "store_id": "1403024",
+        "pincode": "603103",
+        "latitude": "12.8212",
+        "longitude": "80.2045"
+      },
+      {
+        "store_id": "1381832",
+        "pincode": "603110",
+        "latitude": "12.8378",
+        "longitude": "80.2308"
+      },
+      {
+        "store_id": "1393568",
+        "pincode": "603210",
+        "latitude": "12.8582",
+        "longitude": "80.0686"
+      }
+    ],
+    "New Delhi": [
+      {
+        "store_id": "1386719",
+        "pincode": "110002",
+        "latitude": "28.6388",
+        "longitude": "77.2373"
+      },
+      {
+        "store_id": "1261842",
+        "pincode": "110003",
+        "latitude": "28.6498",
+        "longitude": "77.1467"
+      },
+      {
+        "store_id": "1383851",
+        "pincode": "110003",
+        "latitude": "28.5869",
+        "longitude": "77.2247"
+      },
+      {
+        "store_id": "1403207",
+        "pincode": "110005",
+        "latitude": "28.6586",
+        "longitude": "77.2024"
+      },
+      {
+        "store_id": "1402776",
+        "pincode": "110007",
+        "latitude": "28.6881",
+        "longitude": "77.1954"
+      },
+      {
+        "store_id": "1404594",
+        "pincode": "110007",
+        "latitude": "28.6869",
+        "longitude": "77.1949"
+      },
+      {
+        "store_id": "1381835",
+        "pincode": "110008",
+        "latitude": "28.65",
+        "longitude": "77.1843"
+      },
+      {
+        "store_id": "1325203",
+        "pincode": "110009",
+        "latitude": "28.7177",
+        "longitude": "77.2128"
+      },
+      {
+        "store_id": "816651",
+        "pincode": "110009",
+        "latitude": "28.7085",
+        "longitude": "77.1802"
+      },
+      {
+        "store_id": "1229997",
+        "pincode": "110012",
+        "latitude": "28.632",
+        "longitude": "77.1637"
+      },
+      {
+        "store_id": "1382494",
+        "pincode": "110014",
+        "latitude": "28.5785",
+        "longitude": "77.2566"
+      },
+      {
+        "store_id": "1400924",
+        "pincode": "110015",
+        "latitude": "28.6698",
+        "longitude": "77.1644"
+      },
+      {
+        "store_id": "1404584",
+        "pincode": "110016",
+        "latitude": "28.5653",
+        "longitude": "77.1998"
+      },
+      {
+        "store_id": "1404841",
+        "pincode": "110016",
+        "latitude": "28.5465",
+        "longitude": "77.1896"
+      },
+      {
+        "store_id": "1399700",
+        "pincode": "110017",
+        "latitude": "28.5297",
+        "longitude": "77.2278"
+      },
+      {
+        "store_id": "406774",
+        "pincode": "110017",
+        "latitude": "28.5377",
+        "longitude": "77.2154"
+      },
+      {
+        "store_id": "1062420",
+        "pincode": "110018",
+        "latitude": "28.6417",
+        "longitude": "77.107"
+      },
+      {
+        "store_id": "1099457",
+        "pincode": "110018",
+        "latitude": "28.6382",
+        "longitude": "77.0875"
+      },
+      {
+        "store_id": "1400548",
+        "pincode": "110018",
+        "latitude": "28.639",
+        "longitude": "77.0695"
+      },
+      {
+        "store_id": "1389690",
+        "pincode": "110019",
+        "latitude": "28.536",
+        "longitude": "77.2532"
+      },
+      {
+        "store_id": "1404675",
+        "pincode": "110019",
+        "latitude": "28.545",
+        "longitude": "77.2623"
+      },
+      {
+        "store_id": "1381357",
+        "pincode": "110025",
+        "latitude": "28.543",
+        "longitude": "77.2958"
+      },
+      {
+        "store_id": "1387704",
+        "pincode": "110025",
+        "latitude": "28.5625",
+        "longitude": "77.2748"
+      },
+      {
+        "store_id": "1383383",
+        "pincode": "110026",
+        "latitude": "28.557",
+        "longitude": "77.0405"
+      },
+      {
+        "store_id": "1386535",
+        "pincode": "110027",
+        "latitude": "28.6307",
+        "longitude": "77.1248"
+      },
+      {
+        "store_id": "1403311",
+        "pincode": "110027",
+        "latitude": "28.65",
+        "longitude": "77.1227"
+      },
+      {
+        "store_id": "649851",
+        "pincode": "110027",
+        "latitude": "28.6557",
+        "longitude": "77.1263"
+      },
+      {
+        "store_id": "1380671",
+        "pincode": "110032",
+        "latitude": "28.686",
+        "longitude": "77.2872"
+      },
+      {
+        "store_id": "1403179",
+        "pincode": "110032",
+        "latitude": "28.6876",
+        "longitude": "77.292"
+      },
+      {
+        "store_id": "1404755",
+        "pincode": "110033",
+        "latitude": "28.7022",
+        "longitude": "77.1812"
+      },
+      {
+        "store_id": "1404596",
+        "pincode": "110034",
+        "latitude": "28.6922",
+        "longitude": "77.1163"
+      },
+      {
+        "store_id": "1402052",
+        "pincode": "110035",
+        "latitude": "28.673",
+        "longitude": "77.1703"
+      },
+      {
+        "store_id": "1399699",
+        "pincode": "110037",
+        "latitude": "28.5467",
+        "longitude": "77.1174"
+      },
+      {
+        "store_id": "1400967",
+        "pincode": "110041",
+        "latitude": "28.6818",
+        "longitude": "77.0475"
+      },
+      {
+        "store_id": "1404620",
+        "pincode": "110042",
+        "latitude": "",
+        "longitude": ""
+      },
+      {
+        "store_id": "1402248",
+        "pincode": "110044",
+        "latitude": "28.5021",
+        "longitude": "77.3182"
+      },
+      {
+        "store_id": "1267917",
+        "pincode": "110048",
+        "latitude": "28.553",
+        "longitude": "77.2364"
+      },
+      {
+        "store_id": "1398755",
+        "pincode": "110049",
+        "latitude": "28.558",
+        "longitude": "77.2075"
+      },
+      {
+        "store_id": "1099459",
+        "pincode": "110051",
+        "latitude": "28.6599",
+        "longitude": "77.28"
+      },
+      {
+        "store_id": "1386271",
+        "pincode": "110052",
+        "latitude": "28.686",
+        "longitude": "77.164"
+      },
+      {
+        "store_id": "1400547",
+        "pincode": "110052",
+        "latitude": "28.686",
+        "longitude": "77.164"
+      },
+      {
+        "store_id": "1062419",
+        "pincode": "110055",
+        "latitude": "28.6373",
+        "longitude": "77.204"
+      },
+      {
+        "store_id": "1389689",
+        "pincode": "110058",
+        "latitude": "28.6202",
+        "longitude": "77.0648"
+      },
+      {
+        "store_id": "762550",
+        "pincode": "110058",
+        "latitude": "28.6159",
+        "longitude": "77.0967"
+      },
+      {
+        "store_id": "1387705",
+        "pincode": "110059",
+        "latitude": "28.6213",
+        "longitude": "77.0293"
+      },
+      {
+        "store_id": "1388690",
+        "pincode": "110059",
+        "latitude": "28.601",
+        "longitude": "77.0558"
+      },
+      {
+        "store_id": "1404445",
+        "pincode": "110059",
+        "latitude": "28.6224",
+        "longitude": "77.0575"
+      },
+      {
+        "store_id": "1401654",
+        "pincode": "110064",
+        "latitude": "28.6205",
+        "longitude": "77.1172"
+      },
+      {
+        "store_id": "1386948",
+        "pincode": "110065",
+        "latitude": "28.5625",
+        "longitude": "77.2475"
+      },
+      {
+        "store_id": "810368",
+        "pincode": "110067",
+        "latitude": "28.5543",
+        "longitude": "77.1702"
+      },
+      {
+        "store_id": "1402777",
+        "pincode": "110068",
+        "latitude": "28.5148",
+        "longitude": "77.2061"
+      },
+      {
+        "store_id": "1386536",
+        "pincode": "110070",
+        "latitude": "28.5247",
+        "longitude": "77.1509"
+      },
+      {
+        "store_id": "1394450",
+        "pincode": "110074",
+        "latitude": "28.468",
+        "longitude": "77.2045"
+      },
+      {
+        "store_id": "1384143",
+        "pincode": "110075",
+        "latitude": "28.5967",
+        "longitude": "77.0207"
+      },
+      {
+        "store_id": "1402457",
+        "pincode": "110075",
+        "latitude": "28.5773",
+        "longitude": "77.0503"
+      },
+      {
+        "store_id": "1382871",
+        "pincode": "110077",
+        "latitude": "28.5779",
+        "longitude": "77.0813"
+      },
+      {
+        "store_id": "1401649",
+        "pincode": "110077",
+        "latitude": "28.5779",
+        "longitude": "77.0813"
+      },
+      {
+        "store_id": "1404610",
+        "pincode": "110078",
+        "latitude": "28.6063",
+        "longitude": "77.0336"
+      },
+      {
+        "store_id": "1402053",
+        "pincode": "110084",
+        "latitude": "28.7392",
+        "longitude": "77.1977"
+      },
+      {
+        "store_id": "1062023",
+        "pincode": "110085",
+        "latitude": "28.7145",
+        "longitude": "77.1039"
+      },
+      {
+        "store_id": "1384511",
+        "pincode": "110085",
+        "latitude": "28.7208",
+        "longitude": "77.1448"
+      },
+      {
+        "store_id": "1404165",
+        "pincode": "110086",
+        "latitude": "",
+        "longitude": ""
+      },
+      {
+        "store_id": "1403208",
+        "pincode": "110087",
+        "latitude": "28.6704",
+        "longitude": "77.0834"
+      },
+      {
+        "store_id": "1404450",
+        "pincode": "110087",
+        "latitude": "28.6729",
+        "longitude": "77.0931"
+      },
+      {
+        "store_id": "1390225",
+        "pincode": "110088",
+        "latitude": "28.686",
+        "longitude": "77.1229"
+      },
+      {
+        "store_id": "1099458",
+        "pincode": "110091",
+        "latitude": "28.6028",
+        "longitude": "77.2843"
+      },
+      {
+        "store_id": "1404576",
+        "pincode": "110091",
+        "latitude": "28.6125",
+        "longitude": "77.3035"
+      },
+      {
+        "store_id": "1230886",
+        "pincode": "110092",
+        "latitude": "28.6268",
+        "longitude": "77.3076"
+      },
+      {
+        "store_id": "1403206",
+        "pincode": "110092",
+        "latitude": "28.6283",
+        "longitude": "77.2787"
+      },
+      {
+        "store_id": "649841",
+        "pincode": "110092",
+        "latitude": "28.6371",
+        "longitude": "77.2817"
+      },
+      {
+        "store_id": "1402249",
+        "pincode": "110094",
+        "latitude": "28.7189",
+        "longitude": "77.2658"
+      },
+      {
+        "store_id": "1388689",
+        "pincode": "110095",
+        "latitude": "28.687",
+        "longitude": "77.3216"
+      }
+    ],
+    "Pune": [
+      {
+        "store_id": "1402464",
+        "pincode": "410047",
+        "latitude": "18.6127",
+        "longitude": "73.9143"
+      },
+      {
+        "store_id": "1403038",
+        "pincode": "410401",
+        "latitude": "18.7631",
+        "longitude": "73.4108"
+      },
+      {
+        "store_id": "1400558",
+        "pincode": "410507",
+        "latitude": "18.7469",
+        "longitude": "73.6752"
+      },
+      {
+        "store_id": "1403455",
+        "pincode": "411001",
+        "latitude": "18.532",
+        "longitude": "73.8743"
+      },
+      {
+        "store_id": "1404782",
+        "pincode": "411002",
+        "latitude": "18.5061",
+        "longitude": "73.8539"
+      },
+      {
+        "store_id": "1385564",
+        "pincode": "411006",
+        "latitude": "18.5474",
+        "longitude": "73.9042"
+      },
+      {
+        "store_id": "1383135",
+        "pincode": "411007",
+        "latitude": "18.556",
+        "longitude": "73.822"
+      },
+      {
+        "store_id": "1388314",
+        "pincode": "411013",
+        "latitude": "18.5023",
+        "longitude": "73.9136"
+      },
+      {
+        "store_id": "1389691",
+        "pincode": "411014",
+        "latitude": "18.5564",
+        "longitude": "73.9328"
+      },
+      {
+        "store_id": "1397626",
+        "pincode": "411014",
+        "latitude": "18.5624",
+        "longitude": "73.9581"
+      },
+      {
+        "store_id": "1404800",
+        "pincode": "411014",
+        "latitude": "18.5565",
+        "longitude": "73.9408"
+      },
+      {
+        "store_id": "1400557",
+        "pincode": "411015",
+        "latitude": "18.5793",
+        "longitude": "73.8848"
+      },
+      {
+        "store_id": "1401652",
+        "pincode": "411015",
+        "latitude": "18.5963",
+        "longitude": "73.9077"
+      },
+      {
+        "store_id": "1403453",
+        "pincode": "411016",
+        "latitude": "18.5305",
+        "longitude": "73.8325"
+      },
+      {
+        "store_id": "1383574",
+        "pincode": "411017",
+        "latitude": "18.6388",
+        "longitude": "73.8081"
+      },
+      {
+        "store_id": "1390228",
+        "pincode": "411017",
+        "latitude": "18.6014",
+        "longitude": "73.7808"
+      },
+      {
+        "store_id": "1393574",
+        "pincode": "411017",
+        "latitude": "18.6104",
+        "longitude": "73.8189"
+      },
+      {
+        "store_id": "1404643",
+        "pincode": "411018",
+        "latitude": "18.6268",
+        "longitude": "73.8017"
+      },
+      {
+        "store_id": "1383575",
+        "pincode": "411021",
+        "latitude": "18.5474",
+        "longitude": "73.7522"
+      },
+      {
+        "store_id": "1385649",
+        "pincode": "411021",
+        "latitude": "18.5174",
+        "longitude": "73.768"
+      },
+      {
+        "store_id": "1390229",
+        "pincode": "411021",
+        "latitude": "18.5384",
+        "longitude": "73.7997"
+      },
+      {
+        "store_id": "1403215",
+        "pincode": "411025",
+        "latitude": "18.6648",
+        "longitude": "73.8884"
+      },
+      {
+        "store_id": "1404753",
+        "pincode": "411027",
+        "latitude": "18.5776",
+        "longitude": "73.788"
+      },
+      {
+        "store_id": "1399709",
+        "pincode": "411028",
+        "latitude": "18.4783",
+        "longitude": "73.9262"
+      },
+      {
+        "store_id": "1401109",
+        "pincode": "411028",
+        "latitude": "18.5127",
+        "longitude": "73.9393"
+      },
+      {
+        "store_id": "1393573",
+        "pincode": "411033",
+        "latitude": "18.6285",
+        "longitude": "73.7429"
+      },
+      {
+        "store_id": "1402808",
+        "pincode": "411033",
+        "latitude": "18.6193",
+        "longitude": "73.6993"
+      },
+      {
+        "store_id": "1403044",
+        "pincode": "411033",
+        "latitude": "18.5836",
+        "longitude": "73.7447"
+      },
+      {
+        "store_id": "1402476",
+        "pincode": "411035",
+        "latitude": "18.6519",
+        "longitude": "73.7833"
+      },
+      {
+        "store_id": "1403214",
+        "pincode": "411036",
+        "latitude": "18.5336",
+        "longitude": "73.9425"
+      },
+      {
+        "store_id": "1404754",
+        "pincode": "411038",
+        "latitude": "",
+        "longitude": ""
+      },
+      {
+        "store_id": "1398754",
+        "pincode": "411042",
+        "latitude": "18.4893",
+        "longitude": "73.7937"
+      },
+      {
+        "store_id": "1389002",
+        "pincode": "411043",
+        "latitude": "18.4843",
+        "longitude": "73.8613"
+      },
+      {
+        "store_id": "1404644",
+        "pincode": "411043",
+        "latitude": "18.4695",
+        "longitude": "73.8576"
+      },
+      {
+        "store_id": "1388453",
+        "pincode": "411045",
+        "latitude": "18.5744",
+        "longitude": "73.7618"
+      },
+      {
+        "store_id": "1389001",
+        "pincode": "411045",
+        "latitude": "18.5654",
+        "longitude": "73.7808"
+      },
+      {
+        "store_id": "1404615",
+        "pincode": "411045",
+        "latitude": "18.5476",
+        "longitude": "73.7716"
+      },
+      {
+        "store_id": "1404659",
+        "pincode": "411045",
+        "latitude": "18.5669",
+        "longitude": "73.7407"
+      },
+      {
+        "store_id": "1393575",
+        "pincode": "411046",
+        "latitude": "18.456",
+        "longitude": "73.8348"
+      },
+      {
+        "store_id": "1402466",
+        "pincode": "411046",
+        "latitude": "18.4495",
+        "longitude": "73.872"
+      },
+      {
+        "store_id": "1278175",
+        "pincode": "411047",
+        "latitude": "18.5744",
+        "longitude": "73.7047"
+      },
+      {
+        "store_id": "1382708",
+        "pincode": "411047",
+        "latitude": "18.5924",
+        "longitude": "73.9139"
+      },
+      {
+        "store_id": "1382354",
+        "pincode": "411048",
+        "latitude": "18.4723",
+        "longitude": "73.8882"
+      },
+      {
+        "store_id": "1402454",
+        "pincode": "411048",
+        "latitude": "18.4643",
+        "longitude": "73.8928"
+      },
+      {
+        "store_id": "1402268",
+        "pincode": "411052",
+        "latitude": "18.4846",
+        "longitude": "73.8105"
+      },
+      {
+        "store_id": "1382710",
+        "pincode": "411057",
+        "latitude": "18.5984",
+        "longitude": "73.7555"
+      },
+      {
+        "store_id": "1382965",
+        "pincode": "411057",
+        "latitude": "18.5804",
+        "longitude": "73.6921"
+      },
+      {
+        "store_id": "1398761",
+        "pincode": "411057",
+        "latitude": "18.5879",
+        "longitude": "73.7333"
+      },
+      {
+        "store_id": "1402465",
+        "pincode": "411057",
+        "latitude": "18.6087",
+        "longitude": "73.7211"
+      },
+      {
+        "store_id": "1403042",
+        "pincode": "411057",
+        "latitude": "18.5859",
+        "longitude": "73.6822"
+      },
+      {
+        "store_id": "1395729",
+        "pincode": "411060",
+        "latitude": "18.4438",
+        "longitude": "73.9134"
+      },
+      {
+        "store_id": "1402618",
+        "pincode": "411060",
+        "latitude": "18.4299",
+        "longitude": "73.8977"
+      },
+      {
+        "store_id": "1386163",
+        "pincode": "411068",
+        "latitude": "18.4483",
+        "longitude": "73.7868"
+      },
+      {
+        "store_id": "1389254",
+        "pincode": "412101",
+        "latitude": "18.6585",
+        "longitude": "73.7366"
+      },
+      {
+        "store_id": "1400927",
+        "pincode": "412105",
+        "latitude": "18.6765",
+        "longitude": "73.8317"
+      },
+      {
+        "store_id": "1403040",
+        "pincode": "412115",
+        "latitude": "18.5026",
+        "longitude": "73.7481"
+      },
+      {
+        "store_id": "1403036",
+        "pincode": "412207",
+        "latitude": "18.5833",
+        "longitude": "73.9963"
+      },
+      {
+        "store_id": "1403046",
+        "pincode": "412207",
+        "latitude": "18.5868",
+        "longitude": "73.9694"
+      },
+      {
+        "store_id": "1381445",
+        "pincode": "412307",
+        "latitude": "18.5294",
+        "longitude": "73.9707"
+      },
+      {
+        "store_id": "1385566",
+        "pincode": "412307",
+        "latitude": "18.5864",
+        "longitude": "73.9646"
+      },
+      {
+        "store_id": "1394673",
+        "pincode": "412308",
+        "latitude": "18.4843",
+        "longitude": "73.9547"
+      }
+    ],
+    "Gurugram": [
+      {
+        "store_id": "1278169",
+        "pincode": "122001",
+        "latitude": "28.3861",
+        "longitude": "77.0659"
+      },
+      {
+        "store_id": "1298919",
+        "pincode": "122001",
+        "latitude": "28.4743",
+        "longitude": "77.0663"
+      },
+      {
+        "store_id": "1382258",
+        "pincode": "122001",
+        "latitude": "28.387",
+        "longitude": "77.0244"
+      },
+      {
+        "store_id": "1382659",
+        "pincode": "122001",
+        "latitude": "28.4835",
+        "longitude": "77.0216"
+      },
+      {
+        "store_id": "1383827",
+        "pincode": "122001",
+        "latitude": "28.438",
+        "longitude": "77.0521"
+      },
+      {
+        "store_id": "1384146",
+        "pincode": "122001",
+        "latitude": "28.5204",
+        "longitude": "77.0387"
+      },
+      {
+        "store_id": "1389633",
+        "pincode": "122001",
+        "latitude": "28.4128",
+        "longitude": "77.0426"
+      },
+      {
+        "store_id": "1392083",
+        "pincode": "122001",
+        "latitude": "28.4442",
+        "longitude": "77.1015"
+      },
+      {
+        "store_id": "1394451",
+        "pincode": "122001",
+        "latitude": "28.473",
+        "longitude": "77.0441"
+      },
+      {
+        "store_id": "1397028",
+        "pincode": "122001",
+        "latitude": "28.4318",
+        "longitude": "77.0364"
+      },
+      {
+        "store_id": "1398757",
+        "pincode": "122001",
+        "latitude": "28.5117",
+        "longitude": "77.08"
+      },
+      {
+        "store_id": "1402608",
+        "pincode": "122001",
+        "latitude": "28.46",
+        "longitude": "77.0553"
+      },
+      {
+        "store_id": "1404604",
+        "pincode": "122001",
+        "latitude": "28.5177",
+        "longitude": "77.0373"
+      },
+      {
+        "store_id": "1239163",
+        "pincode": "122002",
+        "latitude": "28.4668",
+        "longitude": "77.0922"
+      },
+      {
+        "store_id": "1395428",
+        "pincode": "122002",
+        "latitude": "28.4313",
+        "longitude": "77.1072"
+      },
+      {
+        "store_id": "1398454",
+        "pincode": "122002",
+        "latitude": "28.4093",
+        "longitude": "77.0626"
+      },
+      {
+        "store_id": "1401254",
+        "pincode": "122002",
+        "latitude": "28.4765",
+        "longitude": "77.0848"
+      },
+      {
+        "store_id": "1404592",
+        "pincode": "122002",
+        "latitude": "28.4877",
+        "longitude": "77.1033"
+      },
+      {
+        "store_id": "1404770",
+        "pincode": "122002",
+        "latitude": "28.4628",
+        "longitude": "77.0804"
+      },
+      {
+        "store_id": "1400549",
+        "pincode": "122003",
+        "latitude": "28.4444",
+        "longitude": "77.06"
+      },
+      {
+        "store_id": "1402609",
+        "pincode": "122003",
+        "latitude": "28.426",
+        "longitude": "77.0677"
+      },
+      {
+        "store_id": "1403213",
+        "pincode": "122003",
+        "latitude": "28.4367",
+        "longitude": "77.0823"
+      },
+      {
+        "store_id": "1387568",
+        "pincode": "122004",
+        "latitude": "28.3977",
+        "longitude": "76.9576"
+      },
+      {
+        "store_id": "1402055",
+        "pincode": "122004",
+        "latitude": "28.3875",
+        "longitude": "76.9769"
+      },
+      {
+        "store_id": "1389005",
+        "pincode": "122006",
+        "latitude": "28.4844",
+        "longitude": "76.9852"
+      },
+      {
+        "store_id": "762551",
+        "pincode": "122009",
+        "latitude": "28.4479",
+        "longitude": "77.085"
+      },
+      {
+        "store_id": "1380623",
+        "pincode": "122010",
+        "latitude": "28.491",
+        "longitude": "77.1051"
+      },
+      {
+        "store_id": "1404613",
+        "pincode": "122011",
+        "latitude": "28.4242",
+        "longitude": "77.0765"
+      },
+      {
+        "store_id": "1384513",
+        "pincode": "122017",
+        "latitude": "28.5025",
+        "longitude": "77.0548"
+      },
+      {
+        "store_id": "1403184",
+        "pincode": "122017",
+        "latitude": "28.4952",
+        "longitude": "77.0203"
+      },
+      {
+        "store_id": "1402056",
+        "pincode": "122018",
+        "latitude": "28.4352",
+        "longitude": "77.0336"
+      },
+      {
+        "store_id": "1402057",
+        "pincode": "122018",
+        "latitude": "28.4345",
+        "longitude": "77.1347"
+      },
+      {
+        "store_id": "1401255",
+        "pincode": "122051",
+        "latitude": "28.3523",
+        "longitude": "76.9736"
+      },
+      {
+        "store_id": "1389006",
+        "pincode": "122101",
+        "latitude": "28.4473",
+        "longitude": "76.9988"
+      },
+      {
+        "store_id": "1402254",
+        "pincode": "122101",
+        "latitude": "28.406",
+        "longitude": "77.0918"
+      },
+      {
+        "store_id": "1402253",
+        "pincode": "122102",
+        "latitude": "28.3612",
+        "longitude": "77.0652"
+      },
+      {
+        "store_id": "1404647",
+        "pincode": "122102",
+        "latitude": "28.4055",
+        "longitude": "77.067"
+      },
+      {
+        "store_id": "1401469",
+        "pincode": "122505",
+        "latitude": "28.4107",
+        "longitude": "76.9072"
+      },
+      {
+        "store_id": "1402607",
+        "pincode": "122505",
+        "latitude": "28.4261",
+        "longitude": "76.9369"
+      },
+      {
+        "store_id": "1402779",
+        "pincode": "122505",
+        "latitude": "28.4127",
+        "longitude": "76.9341"
+      }
+    ],
+    "Kolkata": [
+      {
+        "store_id": "1391896",
+        "pincode": "700007",
+        "latitude": "22.587",
+        "longitude": "88.3561"
+      },
+      {
+        "store_id": "1400971",
+        "pincode": "700014",
+        "latitude": "22.5545",
+        "longitude": "88.354"
+      },
+      {
+        "store_id": "1385840",
+        "pincode": "700017",
+        "latitude": "22.5365",
+        "longitude": "88.3637"
+      },
+      {
+        "store_id": "1404795",
+        "pincode": "700020",
+        "latitude": "22.5367",
+        "longitude": "88.3491"
+      },
+      {
+        "store_id": "1169284",
+        "pincode": "700026",
+        "latitude": "22.5185",
+        "longitude": "88.3442"
+      },
+      {
+        "store_id": "1382982",
+        "pincode": "700028",
+        "latitude": "22.6536",
+        "longitude": "88.4227"
+      },
+      {
+        "store_id": "1404788",
+        "pincode": "700028",
+        "latitude": "22.6198",
+        "longitude": "88.4172"
+      },
+      {
+        "store_id": "1380621",
+        "pincode": "700029",
+        "latitude": "22.5185",
+        "longitude": "88.3637"
+      },
+      {
+        "store_id": "1404844",
+        "pincode": "700033",
+        "latitude": "22.5029",
+        "longitude": "88.3522"
+      },
+      {
+        "store_id": "1404626",
+        "pincode": "700034",
+        "latitude": "22.4998",
+        "longitude": "88.3246"
+      },
+      {
+        "store_id": "1404759",
+        "pincode": "700034",
+        "latitude": "22.4944",
+        "longitude": "88.3331"
+      },
+      {
+        "store_id": "1403466",
+        "pincode": "700039",
+        "latitude": "22.5303",
+        "longitude": "88.3803"
+      },
+      {
+        "store_id": "901840",
+        "pincode": "700040",
+        "latitude": "22.4799",
+        "longitude": "88.3596"
+      },
+      {
+        "store_id": "1386096",
+        "pincode": "700042",
+        "latitude": "22.5125",
+        "longitude": "88.3896"
+      },
+      {
+        "store_id": "1400551",
+        "pincode": "700046",
+        "latitude": "22.541",
+        "longitude": "88.3979"
+      },
+      {
+        "store_id": "1237258",
+        "pincode": "700047",
+        "latitude": "22.4464",
+        "longitude": "88.3829"
+      },
+      {
+        "store_id": "1397622",
+        "pincode": "700050",
+        "latitude": "22.6326",
+        "longitude": "88.3771"
+      },
+      {
+        "store_id": "1135719",
+        "pincode": "700053",
+        "latitude": "22.5185",
+        "longitude": "88.3247"
+      },
+      {
+        "store_id": "1386097",
+        "pincode": "700054",
+        "latitude": "22.5635",
+        "longitude": "88.4028"
+      },
+      {
+        "store_id": "1395726",
+        "pincode": "700057",
+        "latitude": "22.6717",
+        "longitude": "88.3707"
+      },
+      {
+        "store_id": "1395725",
+        "pincode": "700060",
+        "latitude": "22.5005",
+        "longitude": "88.3051"
+      },
+      {
+        "store_id": "1400223",
+        "pincode": "700061",
+        "latitude": "22.4757",
+        "longitude": "88.2879"
+      },
+      {
+        "store_id": "1401261",
+        "pincode": "700074",
+        "latitude": "22.6226",
+        "longitude": "88.4178"
+      },
+      {
+        "store_id": "1404707",
+        "pincode": "700080",
+        "latitude": "22.6276",
+        "longitude": "88.4241"
+      },
+      {
+        "store_id": "1403415",
+        "pincode": "700082",
+        "latitude": "22.4831",
+        "longitude": "88.3383"
+      },
+      {
+        "store_id": "1386270",
+        "pincode": "700084",
+        "latitude": "22.4644",
+        "longitude": "88.4025"
+      },
+      {
+        "store_id": "1403468",
+        "pincode": "700084",
+        "latitude": "22.4708",
+        "longitude": "88.3777"
+      },
+      {
+        "store_id": "1388313",
+        "pincode": "700089",
+        "latitude": "22.6086",
+        "longitude": "88.403"
+      },
+      {
+        "store_id": "1388197",
+        "pincode": "700091",
+        "latitude": "22.5816",
+        "longitude": "88.4224"
+      },
+      {
+        "store_id": "1167234",
+        "pincode": "700094",
+        "latitude": "22.4825",
+        "longitude": "88.4025"
+      },
+      {
+        "store_id": "1403460",
+        "pincode": "700099",
+        "latitude": "22.4959",
+        "longitude": "88.3964"
+      },
+      {
+        "store_id": "1382353",
+        "pincode": "700102",
+        "latitude": "22.5996",
+        "longitude": "88.442"
+      },
+      {
+        "store_id": "1402452",
+        "pincode": "700102",
+        "latitude": "22.5729",
+        "longitude": "88.4594"
+      },
+      {
+        "store_id": "1404781",
+        "pincode": "711106",
+        "latitude": "22.5947",
+        "longitude": "88.3393"
+      }
+    ],
+    "Ahmedabad": [
+      {
+        "store_id": "1402439",
+        "pincode": "380004",
+        "latitude": "23.0431",
+        "longitude": "72.5892"
+      },
+      {
+        "store_id": "1402796",
+        "pincode": "380008",
+        "latitude": "23.0089",
+        "longitude": "72.6154"
+      },
+      {
+        "store_id": "1385642",
+        "pincode": "380009",
+        "latitude": "23.0405",
+        "longitude": "72.591"
+      },
+      {
+        "store_id": "1386812",
+        "pincode": "380009",
+        "latitude": "23.0152",
+        "longitude": "72.5713"
+      },
+      {
+        "store_id": "1403829",
+        "pincode": "380009",
+        "latitude": "23.0431",
+        "longitude": "72.5479"
+      },
+      {
+        "store_id": "1385348",
+        "pincode": "380014",
+        "latitude": "23.0405",
+        "longitude": "72.5518"
+      },
+      {
+        "store_id": "1403690",
+        "pincode": "380015",
+        "latitude": "23.0284",
+        "longitude": "72.5302"
+      },
+      {
+        "store_id": "1404477",
+        "pincode": "380015",
+        "latitude": "",
+        "longitude": ""
+      },
+      {
+        "store_id": "1383570",
+        "pincode": "380054",
+        "latitude": "23.0405",
+        "longitude": "72.5127"
+      },
+      {
+        "store_id": "1386811",
+        "pincode": "380055",
+        "latitude": "22.9864",
+        "longitude": "72.5125"
+      },
+      {
+        "store_id": "1404453",
+        "pincode": "380057",
+        "latitude": "22.998",
+        "longitude": "72.4684"
+      },
+      {
+        "store_id": "1393824",
+        "pincode": "380058",
+        "latitude": "23.0382",
+        "longitude": "72.4564"
+      },
+      {
+        "store_id": "1397618",
+        "pincode": "380058",
+        "latitude": "22.9864",
+        "longitude": "72.4636"
+      },
+      {
+        "store_id": "1397023",
+        "pincode": "380060",
+        "latitude": "23.081",
+        "longitude": "72.5104"
+      },
+      {
+        "store_id": "1401245",
+        "pincode": "380061",
+        "latitude": "23.0747",
+        "longitude": "72.5214"
+      },
+      {
+        "store_id": "1401461",
+        "pincode": "382016",
+        "latitude": "23.2299",
+        "longitude": "72.6191"
+      },
+      {
+        "store_id": "1400957",
+        "pincode": "382415",
+        "latitude": "23.0225",
+        "longitude": "72.6595"
+      },
+      {
+        "store_id": "1388195",
+        "pincode": "382424",
+        "latitude": "23.1125",
+        "longitude": "72.6109"
+      },
+      {
+        "store_id": "1402438",
+        "pincode": "382440",
+        "latitude": "22.9536",
+        "longitude": "72.6004"
+      },
+      {
+        "store_id": "1400955",
+        "pincode": "382470",
+        "latitude": "23.1331",
+        "longitude": "72.5634"
+      },
+      {
+        "store_id": "1388194",
+        "pincode": "382481",
+        "latitude": "23.0945",
+        "longitude": "72.5492"
+      }
+    ],
+    "Kochi": [
+      {
+        "store_id": "1400926",
+        "pincode": "682005",
+        "latitude": "9.9255",
+        "longitude": "76.2586"
+      },
+      {
+        "store_id": "1381849",
+        "pincode": "682020",
+        "latitude": "9.9612",
+        "longitude": "76.2978"
+      },
+      {
+        "store_id": "1402804",
+        "pincode": "682020",
+        "latitude": "9.9461",
+        "longitude": "76.2995"
+      },
+      {
+        "store_id": "1397629",
+        "pincode": "682023",
+        "latitude": "10.0223",
+        "longitude": "76.274"
+      },
+      {
+        "store_id": "1404578",
+        "pincode": "682023",
+        "latitude": "10.0223",
+        "longitude": "76.274"
+      },
+      {
+        "store_id": "1387563",
+        "pincode": "682024",
+        "latitude": "10.0106",
+        "longitude": "76.3117"
+      },
+      {
+        "store_id": "1403420",
+        "pincode": "682024",
+        "latitude": "10.0428",
+        "longitude": "76.2997"
+      },
+      {
+        "store_id": "1403457",
+        "pincode": "682028",
+        "latitude": "9.9927",
+        "longitude": "76.3218"
+      },
+      {
+        "store_id": "1319695",
+        "pincode": "682030",
+        "latitude": "10.0309",
+        "longitude": "76.3955"
+      },
+      {
+        "store_id": "1404677",
+        "pincode": "682030",
+        "latitude": "10.0157",
+        "longitude": "76.3747"
+      },
+      {
+        "store_id": "1404672",
+        "pincode": "682032",
+        "latitude": "9.9882",
+        "longitude": "76.3104"
+      },
+      {
+        "store_id": "1399704",
+        "pincode": "682301",
+        "latitude": "9.9523",
+        "longitude": "76.3594"
+      },
+      {
+        "store_id": "1403838",
+        "pincode": "682303",
+        "latitude": "10.0038",
+        "longitude": "76.3802"
+      },
+      {
+        "store_id": "1399702",
+        "pincode": "682306",
+        "latitude": "9.9717",
+        "longitude": "76.3297"
+      },
+      {
+        "store_id": "1402451",
+        "pincode": "682506",
+        "latitude": "9.905",
+        "longitude": "76.3186"
+      },
+      {
+        "store_id": "1403185",
+        "pincode": "683112",
+        "latitude": "10.0861",
+        "longitude": "76.3836"
+      },
+      {
+        "store_id": "1402810",
+        "pincode": "683503",
+        "latitude": "10.0572",
+        "longitude": "76.358"
+      },
+      {
+        "store_id": "1403209",
+        "pincode": "683503",
+        "latitude": "10.0572",
+        "longitude": "76.358"
+      },
+      {
+        "store_id": "1403362",
+        "pincode": "683511",
+        "latitude": "10.1261",
+        "longitude": "76.3225"
+      },
+      {
+        "store_id": "1402613",
+        "pincode": "683543",
+        "latitude": "10.1273",
+        "longitude": "76.4714"
+      },
+      {
+        "store_id": "1402061",
+        "pincode": "683572",
+        "latitude": "10.1957",
+        "longitude": "76.3908"
+      }
+    ],
+    "Ghaziabad": [
+      {
+        "store_id": "1403517",
+        "pincode": "201001",
+        "latitude": "28.6599",
+        "longitude": "77.4665"
+      },
+      {
+        "store_id": "1394453",
+        "pincode": "201002",
+        "latitude": "28.6701",
+        "longitude": "77.4456"
+      },
+      {
+        "store_id": "1404098",
+        "pincode": "201002",
+        "latitude": "28.6789",
+        "longitude": "77.4741"
+      },
+      {
+        "store_id": "1387080",
+        "pincode": "201003",
+        "latitude": "28.7084",
+        "longitude": "77.4204"
+      },
+      {
+        "store_id": "1401468",
+        "pincode": "201005",
+        "latitude": "28.686",
+        "longitude": "77.3694"
+      },
+      {
+        "store_id": "1403518",
+        "pincode": "201005",
+        "latitude": "28.6828",
+        "longitude": "77.3462"
+      },
+      {
+        "store_id": "1403364",
+        "pincode": "201007",
+        "latitude": "28.6843",
+        "longitude": "77.3768"
+      },
+      {
+        "store_id": "1400555",
+        "pincode": "201009",
+        "latitude": "28.6553",
+        "longitude": "77.4008"
+      },
+      {
+        "store_id": "1401713",
+        "pincode": "201009",
+        "latitude": "28.6303",
+        "longitude": "77.4446"
+      },
+      {
+        "store_id": "1404166",
+        "pincode": "201009",
+        "latitude": "28.6548",
+        "longitude": "77.435"
+      },
+      {
+        "store_id": "1401267",
+        "pincode": "201010",
+        "latitude": "28.6427",
+        "longitude": "77.3601"
+      },
+      {
+        "store_id": "1400226",
+        "pincode": "201012",
+        "latitude": "28.6658",
+        "longitude": "77.3794"
+      },
+      {
+        "store_id": "1404601",
+        "pincode": "201012",
+        "latitude": "28.6413",
+        "longitude": "77.3567"
+      },
+      {
+        "store_id": "1403516",
+        "pincode": "201013",
+        "latitude": "28.6978",
+        "longitude": "77.4857"
+      },
+      {
+        "store_id": "1385945",
+        "pincode": "201014",
+        "latitude": "28.6623",
+        "longitude": "77.3219"
+      },
+      {
+        "store_id": "1385946",
+        "pincode": "201014",
+        "latitude": "28.6431",
+        "longitude": "77.3938"
+      },
+      {
+        "store_id": "1386450",
+        "pincode": "201014",
+        "latitude": "28.6444",
+        "longitude": "77.3513"
+      },
+      {
+        "store_id": "1402615",
+        "pincode": "201015",
+        "latitude": "28.6512",
+        "longitude": "77.5107"
+      },
+      {
+        "store_id": "1404820",
+        "pincode": "201016",
+        "latitude": "28.6087",
+        "longitude": "77.4304"
+      },
+      {
+        "store_id": "1399806",
+        "pincode": "201019",
+        "latitude": "28.6443",
+        "longitude": "77.3339"
+      }
+    ],
+    "Lucknow": [
+      {
+        "store_id": "1347753",
+        "pincode": "226001",
+        "latitude": "26.8286",
+        "longitude": "80.9461"
+      },
+      {
+        "store_id": "1400973",
+        "pincode": "226001",
+        "latitude": "26.8611",
+        "longitude": "80.8775"
+      },
+      {
+        "store_id": "1402262",
+        "pincode": "226001",
+        "latitude": "26.8869",
+        "longitude": "81.0507"
+      },
+      {
+        "store_id": "1403559",
+        "pincode": "226005",
+        "latitude": "26.7993",
+        "longitude": "80.8976"
+      },
+      {
+        "store_id": "1403187",
+        "pincode": "226006",
+        "latitude": "26.8729",
+        "longitude": "80.9573"
+      },
+      {
+        "store_id": "1398443",
+        "pincode": "226010",
+        "latitude": "26.8376",
+        "longitude": "81.0067"
+      },
+      {
+        "store_id": "1402783",
+        "pincode": "226010",
+        "latitude": "26.8305",
+        "longitude": "81.0189"
+      },
+      {
+        "store_id": "1404095",
+        "pincode": "226010",
+        "latitude": "26.875",
+        "longitude": "81.0134"
+      },
+      {
+        "store_id": "1401262",
+        "pincode": "226012",
+        "latitude": "26.7823",
+        "longitude": "80.9203"
+      },
+      {
+        "store_id": "1397032",
+        "pincode": "226014",
+        "latitude": "26.7669",
+        "longitude": "80.9487"
+      },
+      {
+        "store_id": "1402782",
+        "pincode": "226017",
+        "latitude": "26.8368",
+        "longitude": "80.8793"
+      },
+      {
+        "store_id": "1404772",
+        "pincode": "226018",
+        "latitude": "26.8515",
+        "longitude": "80.9179"
+      },
+      {
+        "store_id": "1339714",
+        "pincode": "226021",
+        "latitude": "26.9052",
+        "longitude": "80.9464"
+      },
+      {
+        "store_id": "1400974",
+        "pincode": "226021",
+        "latitude": "26.939",
+        "longitude": "80.9693"
+      },
+      {
+        "store_id": "1401263",
+        "pincode": "226022",
+        "latitude": "26.9007",
+        "longitude": "80.9935"
+      },
+      {
+        "store_id": "1398442",
+        "pincode": "226028",
+        "latitude": "26.8843",
+        "longitude": "81.0308"
+      },
+      {
+        "store_id": "1400225",
+        "pincode": "226030",
+        "latitude": "26.7841",
+        "longitude": "80.9917"
+      },
+      {
+        "store_id": "1400975",
+        "pincode": "226201",
+        "latitude": "26.9403",
+        "longitude": "80.9062"
+      }
+    ],
+    "Jaipur": [
+      {
+        "store_id": "1382290",
+        "pincode": "302002",
+        "latitude": "26.9304",
+        "longitude": "75.8278"
+      },
+      {
+        "store_id": "1388196",
+        "pincode": "302004",
+        "latitude": "26.9072",
+        "longitude": "75.8421"
+      },
+      {
+        "store_id": "1403026",
+        "pincode": "302012",
+        "latitude": "26.9463",
+        "longitude": "75.7442"
+      },
+      {
+        "store_id": "1346769",
+        "pincode": "302015",
+        "latitude": "26.8718",
+        "longitude": "75.8022"
+      },
+      {
+        "store_id": "1386095",
+        "pincode": "302017",
+        "latitude": "26.8403",
+        "longitude": "75.8475"
+      },
+      {
+        "store_id": "1401259",
+        "pincode": "302017",
+        "latitude": "26.8318",
+        "longitude": "75.8191"
+      },
+      {
+        "store_id": "1402259",
+        "pincode": "302017",
+        "latitude": "26.8392",
+        "longitude": "75.8707"
+      },
+      {
+        "store_id": "1400970",
+        "pincode": "302019",
+        "latitude": "26.8825",
+        "longitude": "75.7406"
+      },
+      {
+        "store_id": "1402612",
+        "pincode": "302019",
+        "latitude": "26.8886",
+        "longitude": "75.7738"
+      },
+      {
+        "store_id": "1381754",
+        "pincode": "302020",
+        "latitude": "26.8606",
+        "longitude": "75.7441"
+      },
+      {
+        "store_id": "1399701",
+        "pincode": "302020",
+        "latitude": "26.8197",
+        "longitude": "75.758"
+      },
+      {
+        "store_id": "1401477",
+        "pincode": "302020",
+        "latitude": "26.8511",
+        "longitude": "75.7738"
+      },
+      {
+        "store_id": "1382166",
+        "pincode": "302021",
+        "latitude": "26.9284",
+        "longitude": "75.7402"
+      },
+      {
+        "store_id": "1400222",
+        "pincode": "302021",
+        "latitude": "26.9021",
+        "longitude": "75.692"
+      },
+      {
+        "store_id": "1399803",
+        "pincode": "302023",
+        "latitude": "26.9772",
+        "longitude": "75.7754"
+      },
+      {
+        "store_id": "1402260",
+        "pincode": "302025",
+        "latitude": "26.8057",
+        "longitude": "75.8607"
+      },
+      {
+        "store_id": "1395724",
+        "pincode": "302033",
+        "latitude": "26.7862",
+        "longitude": "75.8472"
+      }
+    ],
+    "Goa": [
+      {
+        "store_id": "1381971",
+        "pincode": "403001",
+        "latitude": "15.4929",
+        "longitude": "73.8276"
+      },
+      {
+        "store_id": "1403182",
+        "pincode": "403002",
+        "latitude": "15.5061",
+        "longitude": "73.787"
+      },
+      {
+        "store_id": "1392081",
+        "pincode": "403006",
+        "latitude": "15.4606",
+        "longitude": "73.8605"
+      },
+      {
+        "store_id": "1403560",
+        "pincode": "403006",
+        "latitude": "15.4958",
+        "longitude": "73.8793"
+      },
+      {
+        "store_id": "1404446",
+        "pincode": "403507",
+        "latitude": "",
+        "longitude": ""
+      },
+      {
+        "store_id": "1404798",
+        "pincode": "403507",
+        "latitude": "15.5921",
+        "longitude": "73.8009"
+      },
+      {
+        "store_id": "1387908",
+        "pincode": "403509",
+        "latitude": "15.5971",
+        "longitude": "73.7489"
+      },
+      {
+        "store_id": "1386814",
+        "pincode": "403516",
+        "latitude": "15.5429",
+        "longitude": "73.7576"
+      },
+      {
+        "store_id": "1392082",
+        "pincode": "403517",
+        "latitude": "15.6143",
+        "longitude": "73.7646"
+      },
+      {
+        "store_id": "1382351",
+        "pincode": "403521",
+        "latitude": "15.5499",
+        "longitude": "73.818"
+      },
+      {
+        "store_id": "1394682",
+        "pincode": "403521",
+        "latitude": "15.5227",
+        "longitude": "73.8268"
+      },
+      {
+        "store_id": "1390351",
+        "pincode": "403601",
+        "latitude": "15.2738",
+        "longitude": "73.9579"
+      },
+      {
+        "store_id": "1404593",
+        "pincode": "403711",
+        "latitude": "15.3909",
+        "longitude": "73.8485"
+      },
+      {
+        "store_id": "1403181",
+        "pincode": "403717",
+        "latitude": "15.2699",
+        "longitude": "73.9325"
+      },
+      {
+        "store_id": "1402251",
+        "pincode": "403726",
+        "latitude": "15.3839",
+        "longitude": "73.8691"
+      },
+      {
+        "store_id": "1402250",
+        "pincode": "403802",
+        "latitude": "15.398",
+        "longitude": "73.8192"
+      }
+    ],
+    "Noida": [
+      {
+        "store_id": "1383134",
+        "pincode": "201301",
+        "latitude": "28.558",
+        "longitude": "77.3462"
+      },
+      {
+        "store_id": "1386943",
+        "pincode": "201301",
+        "latitude": "28.5952",
+        "longitude": "77.3198"
+      },
+      {
+        "store_id": "1390227",
+        "pincode": "201301",
+        "latitude": "28.5784",
+        "longitude": "77.3844"
+      },
+      {
+        "store_id": "1395430",
+        "pincode": "201301",
+        "latitude": "28.5815",
+        "longitude": "77.3227"
+      },
+      {
+        "store_id": "1397625",
+        "pincode": "201301",
+        "latitude": "28.5041",
+        "longitude": "77.4147"
+      },
+      {
+        "store_id": "1399346",
+        "pincode": "201301",
+        "latitude": "28.4658",
+        "longitude": "77.5608"
+      },
+      {
+        "store_id": "1404818",
+        "pincode": "201301",
+        "latitude": "28.5408",
+        "longitude": "77.3357"
+      },
+      {
+        "store_id": "1404825",
+        "pincode": "201303",
+        "latitude": "28.5517",
+        "longitude": "77.3559"
+      },
+      {
+        "store_id": "406773",
+        "pincode": "201303",
+        "latitude": "28.553",
+        "longitude": "77.3595"
+      },
+      {
+        "store_id": "1382167",
+        "pincode": "201305",
+        "latitude": "28.5614",
+        "longitude": "77.4047"
+      },
+      {
+        "store_id": "1404167",
+        "pincode": "201307",
+        "latitude": "28.5973",
+        "longitude": "77.45"
+      },
+      {
+        "store_id": "1383133",
+        "pincode": "201309",
+        "latitude": "28.6018",
+        "longitude": "77.3614"
+      },
+      {
+        "store_id": "1388198",
+        "pincode": "201309",
+        "latitude": "28.6198",
+        "longitude": "77.3696"
+      },
+      {
+        "store_id": "1402066",
+        "pincode": "201312",
+        "latitude": "28.4277",
+        "longitude": "77.509"
+      },
+      {
+        "store_id": "1400556",
+        "pincode": "201316",
+        "latitude": "28.5937",
+        "longitude": "77.4031"
+      }
+    ],
+    "Sas Nagar": [
+      {
+        "store_id": "1385943",
+        "pincode": "140301",
+        "latitude": "30.7242",
+        "longitude": "76.6745"
+      },
+      {
+        "store_id": "1386912",
+        "pincode": "140301",
+        "latitude": "30.7423",
+        "longitude": "76.6536"
+      },
+      {
+        "store_id": "1397025",
+        "pincode": "140301",
+        "latitude": "30.7573",
+        "longitude": "76.6327"
+      },
+      {
+        "store_id": "1403513",
+        "pincode": "140301",
+        "latitude": "30.7332",
+        "longitude": "76.6474"
+      },
+      {
+        "store_id": "1390220",
+        "pincode": "140307",
+        "latitude": "30.6952",
+        "longitude": "76.675"
+      },
+      {
+        "store_id": "1403687",
+        "pincode": "140307",
+        "latitude": "30.6567",
+        "longitude": "76.6821"
+      },
+      {
+        "store_id": "1387906",
+        "pincode": "140308",
+        "latitude": "30.6732",
+        "longitude": "76.7234"
+      },
+      {
+        "store_id": "1403831",
+        "pincode": "140308",
+        "latitude": "30.6888",
+        "longitude": "76.7124"
+      },
+      {
+        "store_id": "1348435",
+        "pincode": "140603",
+        "latitude": "30.64",
+        "longitude": "76.8238"
+      },
+      {
+        "store_id": "1388997",
+        "pincode": "140603",
+        "latitude": "30.6387",
+        "longitude": "76.8183"
+      },
+      {
+        "store_id": "1403511",
+        "pincode": "140603",
+        "latitude": "30.6553",
+        "longitude": "76.7408"
+      },
+      {
+        "store_id": "1387904",
+        "pincode": "160058",
+        "latitude": "30.7046",
+        "longitude": "76.7179"
+      },
+      {
+        "store_id": "1403510",
+        "pincode": "160059",
+        "latitude": "30.7188",
+        "longitude": "76.7094"
+      },
+      {
+        "store_id": "1339713",
+        "pincode": "160062",
+        "latitude": "30.6657",
+        "longitude": "76.758"
+      }
+    ],
+    "Bhubaneswar": [
+      {
+        "store_id": "1404842",
+        "pincode": "751001",
+        "latitude": "20.2693",
+        "longitude": "85.8438"
+      },
+      {
+        "store_id": "1401465",
+        "pincode": "751003",
+        "latitude": "20.2812",
+        "longitude": "85.8031"
+      },
+      {
+        "store_id": "1401466",
+        "pincode": "751003",
+        "latitude": "20.2812",
+        "longitude": "85.8031"
+      },
+      {
+        "store_id": "1398746",
+        "pincode": "751007",
+        "latitude": "20.281",
+        "longitude": "85.8596"
+      },
+      {
+        "store_id": "1403021",
+        "pincode": "751014",
+        "latitude": "20.3602",
+        "longitude": "85.8288"
+      },
+      {
+        "store_id": "1404444",
+        "pincode": "751014",
+        "latitude": "20.2463",
+        "longitude": "85.8446"
+      },
+      {
+        "store_id": "1398747",
+        "pincode": "751015",
+        "latitude": "20.29",
+        "longitude": "85.8116"
+      },
+      {
+        "store_id": "1389257",
+        "pincode": "751016",
+        "latitude": "20.3261",
+        "longitude": "85.8181"
+      },
+      {
+        "store_id": "1403022",
+        "pincode": "751019",
+        "latitude": "20.2353",
+        "longitude": "85.7659"
+      },
+      {
+        "store_id": "1400218",
+        "pincode": "751024",
+        "latitude": "20.2496",
+        "longitude": "85.7856"
+      },
+      {
+        "store_id": "1400964",
+        "pincode": "751024",
+        "latitude": "20.3525",
+        "longitude": "85.8254"
+      },
+      {
+        "store_id": "1404808",
+        "pincode": "751024",
+        "latitude": "20.3509",
+        "longitude": "85.8311"
+      },
+      {
+        "store_id": "1401464",
+        "pincode": "752101",
+        "latitude": "20.3229",
+        "longitude": "85.8833"
+      }
+    ],
+    "Greater Noida": [
+      {
+        "store_id": "1384147",
+        "pincode": "201304",
+        "latitude": "28.5543",
+        "longitude": "77.3749"
+      },
+      {
+        "store_id": "1386387",
+        "pincode": "201304",
+        "latitude": "28.497",
+        "longitude": "77.3856"
+      },
+      {
+        "store_id": "1388200",
+        "pincode": "201304",
+        "latitude": "28.5694",
+        "longitude": "77.3653"
+      },
+      {
+        "store_id": "1398130",
+        "pincode": "201304",
+        "latitude": "28.5403",
+        "longitude": "77.3725"
+      },
+      {
+        "store_id": "1402463",
+        "pincode": "201304",
+        "latitude": "28.436",
+        "longitude": "77.4789"
+      },
+      {
+        "store_id": "1404627",
+        "pincode": "201304",
+        "latitude": "28.5013",
+        "longitude": "77.3901"
+      },
+      {
+        "store_id": "1402462",
+        "pincode": "201306",
+        "latitude": "28.5611",
+        "longitude": "77.4449"
+      },
+      {
+        "store_id": "1401661",
+        "pincode": "201308",
+        "latitude": "28.5747",
+        "longitude": "77.4361"
+      },
+      {
+        "store_id": "1403212",
+        "pincode": "201308",
+        "latitude": "28.4508",
+        "longitude": "77.5238"
+      },
+      {
+        "store_id": "1388388",
+        "pincode": "201310",
+        "latitude": "28.4733",
+        "longitude": "77.5042"
+      },
+      {
+        "store_id": "1402624",
+        "pincode": "201310",
+        "latitude": "28.4298",
+        "longitude": "77.4749"
+      },
+      {
+        "store_id": "1389634",
+        "pincode": "201318",
+        "latitude": "28.6227",
+        "longitude": "77.4253"
+      },
+      {
+        "store_id": "1404587",
+        "pincode": "203207",
+        "latitude": "28.5703",
+        "longitude": "77.4856"
+      }
+    ],
+    "Coimbatore": [
+      {
+        "store_id": "1403359",
+        "pincode": "641006",
+        "latitude": "11.0425",
+        "longitude": "76.9769"
+      },
+      {
+        "store_id": "1401253",
+        "pincode": "641008",
+        "latitude": "10.9447",
+        "longitude": "76.9516"
+      },
+      {
+        "store_id": "1388684",
+        "pincode": "641009",
+        "latitude": "11.0068",
+        "longitude": "76.9616"
+      },
+      {
+        "store_id": "1403358",
+        "pincode": "641014",
+        "latitude": "11.044",
+        "longitude": "77.038"
+      },
+      {
+        "store_id": "1392529",
+        "pincode": "641015",
+        "latitude": "11.0132",
+        "longitude": "77.0292"
+      },
+      {
+        "store_id": "1403475",
+        "pincode": "641027",
+        "latitude": "11.0318",
+        "longitude": "76.9512"
+      },
+      {
+        "store_id": "1402051",
+        "pincode": "641028",
+        "latitude": "11.0016",
+        "longitude": "77.0026"
+      },
+      {
+        "store_id": "1401252",
+        "pincode": "641029",
+        "latitude": "11.0643",
+        "longitude": "76.9452"
+      },
+      {
+        "store_id": "1397027",
+        "pincode": "641035",
+        "latitude": "11.0908",
+        "longitude": "77.0048"
+      },
+      {
+        "store_id": "1396288",
+        "pincode": "641037",
+        "latitude": "11.0098",
+        "longitude": "76.9922"
+      },
+      {
+        "store_id": "1402446",
+        "pincode": "641041",
+        "latitude": "11.0276",
+        "longitude": "76.9065"
+      },
+      {
+        "store_id": "1401275",
+        "pincode": "641602",
+        "latitude": "11.1204",
+        "longitude": "77.3415"
+      }
+    ],
+    "Vizag": [
+      {
+        "store_id": "1403366",
+        "pincode": "530007",
+        "latitude": "17.7377",
+        "longitude": "83.2654"
+      },
+      {
+        "store_id": "1395432",
+        "pincode": "530016",
+        "latitude": "17.7408",
+        "longitude": "83.2943"
+      },
+      {
+        "store_id": "1381358",
+        "pincode": "530017",
+        "latitude": "17.7311",
+        "longitude": "83.3495"
+      },
+      {
+        "store_id": "1382440",
+        "pincode": "530020",
+        "latitude": "17.7156",
+        "longitude": "83.298"
+      },
+      {
+        "store_id": "1404609",
+        "pincode": "530026",
+        "latitude": "17.6851",
+        "longitude": "83.2056"
+      },
+      {
+        "store_id": "1402270",
+        "pincode": "530040",
+        "latitude": "17.7616",
+        "longitude": "83.3329"
+      },
+      {
+        "store_id": "1309584",
+        "pincode": "530044",
+        "latitude": "17.6741",
+        "longitude": "83.1919"
+      },
+      {
+        "store_id": "1404666",
+        "pincode": "530046",
+        "latitude": "17.6965",
+        "longitude": "83.163"
+      },
+      {
+        "store_id": "1388113",
+        "pincode": "530048",
+        "latitude": "17.8057",
+        "longitude": "83.3475"
+      },
+      {
+        "store_id": "1404611",
+        "pincode": "530048",
+        "latitude": "17.826",
+        "longitude": "83.355"
+      },
+      {
+        "store_id": "1403846",
+        "pincode": "530051",
+        "latitude": "17.7999",
+        "longitude": "83.2077"
+      },
+      {
+        "store_id": "1345681",
+        "pincode": "531127",
+        "latitude": "17.7408",
+        "longitude": "83.2429"
+      }
+    ],
+    "North 24 Parganas": [
+      {
+        "store_id": "1403840",
+        "pincode": "700123",
+        "latitude": "22.785",
+        "longitude": "88.3898"
+      },
+      {
+        "store_id": "1403472",
+        "pincode": "700125",
+        "latitude": "22.728",
+        "longitude": "88.4977"
+      },
+      {
+        "store_id": "1404586",
+        "pincode": "700133",
+        "latitude": "22.6805",
+        "longitude": "88.4523"
+      },
+      {
+        "store_id": "1237259",
+        "pincode": "700135",
+        "latitude": "22.5681",
+        "longitude": "88.4712"
+      },
+      {
+        "store_id": "1387079",
+        "pincode": "700135",
+        "latitude": "22.6206",
+        "longitude": "88.4876"
+      },
+      {
+        "store_id": "1387910",
+        "pincode": "700135",
+        "latitude": "22.6386",
+        "longitude": "88.4682"
+      },
+      {
+        "store_id": "1401260",
+        "pincode": "700135",
+        "latitude": "22.5595",
+        "longitude": "88.4977"
+      },
+      {
+        "store_id": "1403839",
+        "pincode": "700135",
+        "latitude": "22.5703",
+        "longitude": "88.5176"
+      },
+      {
+        "store_id": "1404809",
+        "pincode": "700136",
+        "latitude": "22.6373",
+        "longitude": "88.4553"
+      },
+      {
+        "store_id": "1404625",
+        "pincode": "700156",
+        "latitude": "22.5733",
+        "longitude": "88.4454"
+      },
+      {
+        "store_id": "867466",
+        "pincode": "700157",
+        "latitude": "22.6176",
+        "longitude": "88.4519"
+      }
+    ],
+    "Thiruvananthapuram": [
+      {
+        "store_id": "1388389",
+        "pincode": "695005",
+        "latitude": "8.5421",
+        "longitude": "76.973"
+      },
+      {
+        "store_id": "1404595",
+        "pincode": "695011",
+        "latitude": "8.5166",
+        "longitude": "76.9347"
+      },
+      {
+        "store_id": "1387569",
+        "pincode": "695012",
+        "latitude": "8.4854",
+        "longitude": "76.9834"
+      },
+      {
+        "store_id": "1402070",
+        "pincode": "695013",
+        "latitude": "8.5432",
+        "longitude": "76.9717"
+      },
+      {
+        "store_id": "1396291",
+        "pincode": "695017",
+        "latitude": "8.5556",
+        "longitude": "76.9184"
+      },
+      {
+        "store_id": "1394675",
+        "pincode": "695022",
+        "latitude": "8.5138",
+        "longitude": "76.8819"
+      },
+      {
+        "store_id": "1394676",
+        "pincode": "695033",
+        "latitude": "8.4916",
+        "longitude": "76.9511"
+      },
+      {
+        "store_id": "1403190",
+        "pincode": "695101",
+        "latitude": "8.7007",
+        "longitude": "76.8136"
+      },
+      {
+        "store_id": "1404824",
+        "pincode": "695101",
+        "latitude": "8.4934",
+        "longitude": "76.9261"
+      },
+      {
+        "store_id": "1381968",
+        "pincode": "695582",
+        "latitude": "8.5349",
+        "longitude": "76.8637"
+      },
+      {
+        "store_id": "1397045",
+        "pincode": "695582",
+        "latitude": "8.5804",
+        "longitude": "76.8592"
+      }
+    ],
+    "Indore": [
+      {
+        "store_id": "1382165",
+        "pincode": "452001",
+        "latitude": "22.6999",
+        "longitude": "75.8824"
+      },
+      {
+        "store_id": "1386817",
+        "pincode": "452001",
+        "latitude": "22.7316",
+        "longitude": "75.8903"
+      },
+      {
+        "store_id": "1402059",
+        "pincode": "452006",
+        "latitude": "22.7338",
+        "longitude": "75.832"
+      },
+      {
+        "store_id": "1388386",
+        "pincode": "452009",
+        "latitude": "22.6835",
+        "longitude": "75.8282"
+      },
+      {
+        "store_id": "1382352",
+        "pincode": "452010",
+        "latitude": "22.7813",
+        "longitude": "75.9137"
+      },
+      {
+        "store_id": "1401475",
+        "pincode": "452010",
+        "latitude": "22.7633",
+        "longitude": "75.9233"
+      },
+      {
+        "store_id": "973251",
+        "pincode": "452011",
+        "latitude": "22.7613",
+        "longitude": "75.9113"
+      },
+      {
+        "store_id": "1400969",
+        "pincode": "452016",
+        "latitude": "22.7091",
+        "longitude": "75.9225"
+      },
+      {
+        "store_id": "1403836",
+        "pincode": "453556",
+        "latitude": "22.6453",
+        "longitude": "75.8345"
+      }
+    ],
+    "Bhopal": [
+      {
+        "store_id": "1399344",
+        "pincode": "462001",
+        "latitude": "23.2526",
+        "longitude": "77.4086"
+      },
+      {
+        "store_id": "1403205",
+        "pincode": "462003",
+        "latitude": "23.2195",
+        "longitude": "77.3905"
+      },
+      {
+        "store_id": "1399345",
+        "pincode": "462011",
+        "latitude": "23.22",
+        "longitude": "77.44"
+      },
+      {
+        "store_id": "1397619",
+        "pincode": "462022",
+        "latitude": "23.2749",
+        "longitude": "77.4682"
+      },
+      {
+        "store_id": "1403753",
+        "pincode": "462022",
+        "latitude": "23.2517",
+        "longitude": "77.4961"
+      },
+      {
+        "store_id": "1403830",
+        "pincode": "462026",
+        "latitude": "23.1834",
+        "longitude": "77.4619"
+      },
+      {
+        "store_id": "1403691",
+        "pincode": "462038",
+        "latitude": "23.3036",
+        "longitude": "77.4149"
+      },
+      {
+        "store_id": "1393825",
+        "pincode": "462042",
+        "latitude": "23.1763",
+        "longitude": "77.4301"
+      }
+    ],
+    "Dehradun": [
+      {
+        "store_id": "1381970",
+        "pincode": "248001",
+        "latitude": "30.3781",
+        "longitude": "78.062"
+      },
+      {
+        "store_id": "1388685",
+        "pincode": "248001",
+        "latitude": "30.306",
+        "longitude": "78.0617"
+      },
+      {
+        "store_id": "1393569",
+        "pincode": "248001",
+        "latitude": "30.364",
+        "longitude": "78.1029"
+      },
+      {
+        "store_id": "1394449",
+        "pincode": "248001",
+        "latitude": "30.31",
+        "longitude": "77.9982"
+      },
+      {
+        "store_id": "1402247",
+        "pincode": "248001",
+        "latitude": "30.3344",
+        "longitude": "77.967"
+      },
+      {
+        "store_id": "1403178",
+        "pincode": "248001",
+        "latitude": "30.3373",
+        "longitude": "78.0553"
+      },
+      {
+        "store_id": "1404600",
+        "pincode": "248001",
+        "latitude": "30.3125",
+        "longitude": "78.0231"
+      },
+      {
+        "store_id": "1391903",
+        "pincode": "248171",
+        "latitude": "30.27",
+        "longitude": "77.9781"
+      }
+    ],
+    "Faridabad": [
+      {
+        "store_id": "1393826",
+        "pincode": "121001",
+        "latitude": "28.3853",
+        "longitude": "77.2863"
+      },
+      {
+        "store_id": "1381444",
+        "pincode": "121002",
+        "latitude": "28.419",
+        "longitude": "77.3654"
+      },
+      {
+        "store_id": "1391900",
+        "pincode": "121002",
+        "latitude": "28.3977",
+        "longitude": "77.3263"
+      },
+      {
+        "store_id": "1403725",
+        "pincode": "121002",
+        "latitude": "28.4042",
+        "longitude": "77.3485"
+      },
+      {
+        "store_id": "1391899",
+        "pincode": "121003",
+        "latitude": "28.4554",
+        "longitude": "77.3175"
+      },
+      {
+        "store_id": "1347907",
+        "pincode": "121006",
+        "latitude": "28.3634",
+        "longitude": "77.338"
+      },
+      {
+        "store_id": "1404834",
+        "pincode": "121006",
+        "latitude": "28.3632",
+        "longitude": "77.3256"
+      },
+      {
+        "store_id": "1390226",
+        "pincode": "121012",
+        "latitude": "28.4158",
+        "longitude": "77.2854"
+      }
+    ],
+    "Patna": [
+      {
+        "store_id": "1400979",
+        "pincode": "800001",
+        "latitude": "25.5906",
+        "longitude": "85.1641"
+      },
+      {
+        "store_id": "1401271",
+        "pincode": "800001",
+        "latitude": "25.585",
+        "longitude": "85.1352"
+      },
+      {
+        "store_id": "1403365",
+        "pincode": "800001",
+        "latitude": "25.6229",
+        "longitude": "85.1232"
+      },
+      {
+        "store_id": "1402068",
+        "pincode": "800004",
+        "latitude": "25.6148",
+        "longitude": "85.1673"
+      },
+      {
+        "store_id": "1402265",
+        "pincode": "800024",
+        "latitude": "25.6233",
+        "longitude": "85.1045"
+      },
+      {
+        "store_id": "1401272",
+        "pincode": "800025",
+        "latitude": "25.6189",
+        "longitude": "85.0786"
+      },
+      {
+        "store_id": "1404850",
+        "pincode": "801105",
+        "latitude": "25.6013",
+        "longitude": "85.0339"
+      },
+      {
+        "store_id": "1402807",
+        "pincode": "801503",
+        "latitude": "25.6226",
+        "longitude": "85.0599"
+      }
+    ],
+    "Surat": [
+      {
+        "store_id": "1397042",
+        "pincode": "394101",
+        "latitude": "21.2512",
+        "longitude": "72.8797"
+      },
+      {
+        "store_id": "1394674",
+        "pincode": "395001",
+        "latitude": "21.1311",
+        "longitude": "72.7537"
+      },
+      {
+        "store_id": "1402789",
+        "pincode": "395002",
+        "latitude": "21.1811",
+        "longitude": "72.8231"
+      },
+      {
+        "store_id": "1403750",
+        "pincode": "395004",
+        "latitude": "21.2131",
+        "longitude": "72.8336"
+      },
+      {
+        "store_id": "1382355",
+        "pincode": "395007",
+        "latitude": "21.1395",
+        "longitude": "72.8058"
+      },
+      {
+        "store_id": "1397039",
+        "pincode": "395009",
+        "latitude": "21.2222",
+        "longitude": "72.7689"
+      },
+      {
+        "store_id": "1403843",
+        "pincode": "395009",
+        "latitude": "21.1843",
+        "longitude": "72.7863"
+      },
+      {
+        "store_id": "1387706",
+        "pincode": "395010",
+        "latitude": "21.1933",
+        "longitude": "72.8698"
+      }
+    ],
+    "Thrissur": [
+      {
+        "store_id": "1395735",
+        "pincode": "680004",
+        "latitude": "10.5343",
+        "longitude": "76.1903"
+      },
+      {
+        "store_id": "1395734",
+        "pincode": "680006",
+        "latitude": "10.502",
+        "longitude": "76.2432"
+      },
+      {
+        "store_id": "1402455",
+        "pincode": "680009",
+        "latitude": "10.5481",
+        "longitude": "76.2275"
+      },
+      {
+        "store_id": "1403048",
+        "pincode": "680027",
+        "latitude": "10.5066",
+        "longitude": "76.211"
+      },
+      {
+        "store_id": "1402072",
+        "pincode": "680306",
+        "latitude": "10.4866",
+        "longitude": "76.2382"
+      },
+      {
+        "store_id": "1403844",
+        "pincode": "680307",
+        "latitude": "10.3122",
+        "longitude": "76.3351"
+      },
+      {
+        "store_id": "1402071",
+        "pincode": "680551",
+        "latitude": "10.5526",
+        "longitude": "76.1709"
+      },
+      {
+        "store_id": "1403142",
+        "pincode": "680655",
+        "latitude": "10.5291",
+        "longitude": "76.2561"
+      }
+    ],
+    "Ernakulam": [
+      {
+        "store_id": "1383382",
+        "pincode": "682021",
+        "latitude": "10.0212",
+        "longitude": "76.336"
+      },
+      {
+        "store_id": "1402060",
+        "pincode": "682021",
+        "latitude": "10.0289",
+        "longitude": "76.3231"
+      },
+      {
+        "store_id": "1399703",
+        "pincode": "682025",
+        "latitude": "10.0032",
+        "longitude": "76.2948"
+      },
+      {
+        "store_id": "1382427",
+        "pincode": "682038",
+        "latitude": "9.9509",
+        "longitude": "76.3334"
+      },
+      {
+        "store_id": "1381277",
+        "pincode": "682039",
+        "latitude": "10.0511",
+        "longitude": "76.3183"
+      },
+      {
+        "store_id": "1386092",
+        "pincode": "682039",
+        "latitude": "10.0076",
+        "longitude": "76.3545"
+      },
+      {
+        "store_id": "1393570",
+        "pincode": "683108",
+        "latitude": "10.1065",
+        "longitude": "76.353"
+      }
+    ],
+    "Nagpur": [
+      {
+        "store_id": "1397624",
+        "pincode": "440001",
+        "latitude": "21.1468",
+        "longitude": "79.0549"
+      },
+      {
+        "store_id": "1393571",
+        "pincode": "440012",
+        "latitude": "21.1397",
+        "longitude": "79.0817"
+      },
+      {
+        "store_id": "1392084",
+        "pincode": "440014",
+        "latitude": "21.184",
+        "longitude": "79.0835"
+      },
+      {
+        "store_id": "1392532",
+        "pincode": "440015",
+        "latitude": "21.0881",
+        "longitude": "79.0802"
+      },
+      {
+        "store_id": "1399707",
+        "pincode": "440015",
+        "latitude": "21.1097",
+        "longitude": "79.0591"
+      },
+      {
+        "store_id": "1397035",
+        "pincode": "440024",
+        "latitude": "21.1277",
+        "longitude": "79.1171"
+      },
+      {
+        "store_id": "1403419",
+        "pincode": "440024",
+        "latitude": "21.1136",
+        "longitude": "79.108"
+      }
+    ],
+    "Varanasi": [
+      {
+        "store_id": "1404674",
+        "pincode": "221002",
+        "latitude": "25.3413",
+        "longitude": "82.9799"
+      },
+      {
+        "store_id": "1396292",
+        "pincode": "221005",
+        "latitude": "25.2575",
+        "longitude": "82.9836"
+      },
+      {
+        "store_id": "1402074",
+        "pincode": "221005",
+        "latitude": "25.2533",
+        "longitude": "82.9783"
+      },
+      {
+        "store_id": "1404835",
+        "pincode": "221005",
+        "latitude": "25.2867",
+        "longitude": "82.9971"
+      },
+      {
+        "store_id": "1401660",
+        "pincode": "221007",
+        "latitude": "25.3662",
+        "longitude": "83.0054"
+      },
+      {
+        "store_id": "1394452",
+        "pincode": "221010",
+        "latitude": "25.3067",
+        "longitude": "82.9778"
+      },
+      {
+        "store_id": "1404857",
+        "pincode": "221106",
+        "latitude": "25.293",
+        "longitude": "82.9738"
+      }
+    ],
+    "Vijayawada": [
+      {
+        "store_id": "1404636",
+        "pincode": "520003",
+        "latitude": "16.5167",
+        "longitude": "80.6263"
+      },
+      {
+        "store_id": "1404856",
+        "pincode": "520007",
+        "latitude": "16.4876",
+        "longitude": "80.6774"
+      },
+      {
+        "store_id": "1388390",
+        "pincode": "520010",
+        "latitude": "16.4881",
+        "longitude": "80.6573"
+      },
+      {
+        "store_id": "1391901",
+        "pincode": "520010",
+        "latitude": "16.5206",
+        "longitude": "80.6781"
+      },
+      {
+        "store_id": "1387707",
+        "pincode": "520012",
+        "latitude": "16.537",
+        "longitude": "80.5943"
+      },
+      {
+        "store_id": "1403845",
+        "pincode": "520015",
+        "latitude": "16.5451",
+        "longitude": "80.6382"
+      },
+      {
+        "store_id": "1399348",
+        "pincode": "521137",
+        "latitude": "16.4783",
+        "longitude": "80.7"
+      }
+    ],
+    "Guntur": [
+      {
+        "store_id": "1404606",
+        "pincode": "522001",
+        "latitude": "16.3017",
+        "longitude": "80.4598"
+      },
+      {
+        "store_id": "1402778",
+        "pincode": "522003",
+        "latitude": "16.2823",
+        "longitude": "80.4538"
+      },
+      {
+        "store_id": "1395427",
+        "pincode": "522006",
+        "latitude": "16.314",
+        "longitude": "80.4066"
+      },
+      {
+        "store_id": "1398748",
+        "pincode": "522034",
+        "latitude": "16.3395",
+        "longitude": "80.4434"
+      },
+      {
+        "store_id": "1404765",
+        "pincode": "522201",
+        "latitude": "16.2396",
+        "longitude": "80.6496"
+      },
+      {
+        "store_id": "1394684",
+        "pincode": "522601",
+        "latitude": "16.2971",
+        "longitude": "80.4447"
+      }
+    ],
+    "Guwahati": [
+      {
+        "store_id": "1402803",
+        "pincode": "781005",
+        "latitude": "26.1608",
+        "longitude": "91.7752"
+      },
+      {
+        "store_id": "1401288",
+        "pincode": "781007",
+        "latitude": "26.1782",
+        "longitude": "91.7566"
+      },
+      {
+        "store_id": "1404802",
+        "pincode": "781018",
+        "latitude": "26.1437",
+        "longitude": "91.7407"
+      },
+      {
+        "store_id": "1404745",
+        "pincode": "781019",
+        "latitude": "26.1398",
+        "longitude": "91.765"
+      },
+      {
+        "store_id": "1402469",
+        "pincode": "781022",
+        "latitude": "26.1294",
+        "longitude": "91.8089"
+      },
+      {
+        "store_id": "1404784",
+        "pincode": "781028",
+        "latitude": "26.1199",
+        "longitude": "91.7741"
+      }
+    ],
+    "Mysuru": [
+      {
+        "store_id": "1386098",
+        "pincode": "570004",
+        "latitude": "12.2941",
+        "longitude": "76.6544"
+      },
+      {
+        "store_id": "1402087",
+        "pincode": "570008",
+        "latitude": "12.2728",
+        "longitude": "76.6427"
+      },
+      {
+        "store_id": "1402460",
+        "pincode": "570011",
+        "latitude": "12.3177",
+        "longitude": "76.6916"
+      },
+      {
+        "store_id": "1403416",
+        "pincode": "570015",
+        "latitude": "12.3443",
+        "longitude": "76.6446"
+      },
+      {
+        "store_id": "1397623",
+        "pincode": "570016",
+        "latitude": "12.36",
+        "longitude": "76.6201"
+      },
+      {
+        "store_id": "1395429",
+        "pincode": "570033",
+        "latitude": "12.2777",
+        "longitude": "76.6077"
+      }
+    ],
+    "Vadodara": [
+      {
+        "store_id": "1385567",
+        "pincode": "390007",
+        "latitude": "22.3032",
+        "longitude": "73.1638"
+      },
+      {
+        "store_id": "1389255",
+        "pincode": "390008",
+        "latitude": "22.3282",
+        "longitude": "73.1975"
+      },
+      {
+        "store_id": "1400984",
+        "pincode": "390010",
+        "latitude": "22.2531",
+        "longitude": "73.1907"
+      },
+      {
+        "store_id": "1391902",
+        "pincode": "390012",
+        "latitude": "22.2801",
+        "longitude": "73.1324"
+      },
+      {
+        "store_id": "1387082",
+        "pincode": "390019",
+        "latitude": "22.2966",
+        "longitude": "73.2395"
+      },
+      {
+        "store_id": "1388315",
+        "pincode": "390021",
+        "latitude": "22.3162",
+        "longitude": "73.1325"
+      }
+    ],
+    "Jamshedpur": [
+      {
+        "store_id": "1403141",
+        "pincode": "831001",
+        "latitude": "22.81",
+        "longitude": "86.2041"
+      },
+      {
+        "store_id": "1401659",
+        "pincode": "831003",
+        "latitude": "22.7901",
+        "longitude": "86.2258"
+      },
+      {
+        "store_id": "1402470",
+        "pincode": "831009",
+        "latitude": "22.797",
+        "longitude": "86.1783"
+      },
+      {
+        "store_id": "1403027",
+        "pincode": "831014",
+        "latitude": "22.7817",
+        "longitude": "86.1397"
+      },
+      {
+        "store_id": "1403028",
+        "pincode": "832110",
+        "latitude": "22.8396",
+        "longitude": "86.2089"
+      }
+    ],
+    "Kozhikode": [
+      {
+        "store_id": "1388451",
+        "pincode": "673006",
+        "latitude": "11.2559",
+        "longitude": "75.7906"
+      },
+      {
+        "store_id": "1397030",
+        "pincode": "673007",
+        "latitude": "11.2374",
+        "longitude": "75.8047"
+      },
+      {
+        "store_id": "1404585",
+        "pincode": "673014",
+        "latitude": "11.2446",
+        "longitude": "75.8356"
+      },
+      {
+        "store_id": "1396290",
+        "pincode": "673017",
+        "latitude": "11.2718",
+        "longitude": "75.8241"
+      },
+      {
+        "store_id": "1403186",
+        "pincode": "673602",
+        "latitude": "11.3241",
+        "longitude": "75.9364"
+      }
+    ],
+    "Ludhiana": [
+      {
+        "store_id": "1395727",
+        "pincode": "141001",
+        "latitude": "30.91",
+        "longitude": "75.8783"
+      },
+      {
+        "store_id": "1397034",
+        "pincode": "141001",
+        "latitude": "30.9147",
+        "longitude": "75.8171"
+      },
+      {
+        "store_id": "1404680",
+        "pincode": "141001",
+        "latitude": "30.8609",
+        "longitude": "75.8688"
+      },
+      {
+        "store_id": "1404447",
+        "pincode": "141010",
+        "latitude": "30.9022",
+        "longitude": "75.9106"
+      },
+      {
+        "store_id": "1401264",
+        "pincode": "141012",
+        "latitude": "30.8721",
+        "longitude": "75.7983"
+      }
+    ],
+    "Mangalore": [
+      {
+        "store_id": "1403470",
+        "pincode": "575001",
+        "latitude": "12.8585",
+        "longitude": "74.8394"
+      },
+      {
+        "store_id": "1398444",
+        "pincode": "575002",
+        "latitude": "12.8672",
+        "longitude": "74.8596"
+      },
+      {
+        "store_id": "1403465",
+        "pincode": "575005",
+        "latitude": "12.8942",
+        "longitude": "74.8903"
+      },
+      {
+        "store_id": "1394683",
+        "pincode": "575006",
+        "latitude": "12.8996",
+        "longitude": "74.8264"
+      },
+      {
+        "store_id": "1403191",
+        "pincode": "575006",
+        "latitude": "12.8977",
+        "longitude": "74.845"
+      }
+    ],
+    "Nashik": [
+      {
+        "store_id": "1388452",
+        "pincode": "422001",
+        "latitude": "19.9914",
+        "longitude": "73.7961"
+      },
+      {
+        "store_id": "1397037",
+        "pincode": "422003",
+        "latitude": "20.0135",
+        "longitude": "73.8367"
+      },
+      {
+        "store_id": "1389256",
+        "pincode": "422007",
+        "latitude": "19.9975",
+        "longitude": "73.7476"
+      },
+      {
+        "store_id": "1400978",
+        "pincode": "422009",
+        "latitude": "19.9602",
+        "longitude": "73.7697"
+      },
+      {
+        "store_id": "1402065",
+        "pincode": "422101",
+        "latitude": "19.9591",
+        "longitude": "73.8362"
+      }
+    ],
+    "Chandigarh": [
+      {
+        "store_id": "1383823",
+        "pincode": "160014",
+        "latitude": "30.7558",
+        "longitude": "76.7506"
+      },
+      {
+        "store_id": "1381441",
+        "pincode": "160022",
+        "latitude": "30.7333",
+        "longitude": "76.8003"
+      },
+      {
+        "store_id": "1403976",
+        "pincode": "160036",
+        "latitude": "30.7179",
+        "longitude": "76.7545"
+      },
+      {
+        "store_id": "1389004",
+        "pincode": "160101",
+        "latitude": "30.7172",
+        "longitude": "76.8305"
+      }
+    ],
+    "Gwalior": [
+      {
+        "store_id": "1402255",
+        "pincode": "474002",
+        "latitude": "26.2064",
+        "longitude": "78.1896"
+      },
+      {
+        "store_id": "1403689",
+        "pincode": "474003",
+        "latitude": "26.2305",
+        "longitude": "78.18"
+      },
+      {
+        "store_id": "1401256",
+        "pincode": "474007",
+        "latitude": "26.2183",
+        "longitude": "78.2229"
+      },
+      {
+        "store_id": "1404096",
+        "pincode": "474009",
+        "latitude": "26.2",
+        "longitude": "78.1563"
+      }
+    ],
+    "Kakinada": [
+      {
+        "store_id": "1403360",
+        "pincode": "533003",
+        "latitude": "16.9987",
+        "longitude": "82.245"
+      },
+      {
+        "store_id": "1402078",
+        "pincode": "533004",
+        "latitude": "16.9638",
+        "longitude": "82.2308"
+      },
+      {
+        "store_id": "1403145",
+        "pincode": "533103",
+        "latitude": "17.0102",
+        "longitude": "81.7926"
+      },
+      {
+        "store_id": "1403146",
+        "pincode": "533103",
+        "latitude": "16.9846",
+        "longitude": "81.7942"
+      }
+    ],
+    "Kanpur": [
+      {
+        "store_id": "1402623",
+        "pincode": "208007",
+        "latitude": "26.4122",
+        "longitude": "80.3859"
+      },
+      {
+        "store_id": "1398750",
+        "pincode": "208011",
+        "latitude": "26.4318",
+        "longitude": "80.3217"
+      },
+      {
+        "store_id": "1398751",
+        "pincode": "208017",
+        "latitude": "26.5039",
+        "longitude": "80.2566"
+      },
+      {
+        "store_id": "1397090",
+        "pincode": "208025",
+        "latitude": "26.4679",
+        "longitude": "80.3118"
+      }
+    ],
+    "Madurai": [
+      {
+        "store_id": "1402453",
+        "pincode": "625006",
+        "latitude": "9.8831",
+        "longitude": "78.0582"
+      },
+      {
+        "store_id": "1402263",
+        "pincode": "625012",
+        "latitude": "9.9",
+        "longitude": "78.117"
+      },
+      {
+        "store_id": "1400976",
+        "pincode": "625016",
+        "latitude": "9.9297",
+        "longitude": "78.1015"
+      },
+      {
+        "store_id": "1403029",
+        "pincode": "625107",
+        "latitude": "9.9512",
+        "longitude": "78.1716"
+      }
+    ],
+    "Meerut": [
+      {
+        "store_id": "1401282",
+        "pincode": "250001",
+        "latitude": "29.0449",
+        "longitude": "77.707"
+      },
+      {
+        "store_id": "1402620",
+        "pincode": "250001",
+        "latitude": "28.9949",
+        "longitude": "77.7069"
+      },
+      {
+        "store_id": "1401283",
+        "pincode": "250002",
+        "latitude": "28.9678",
+        "longitude": "77.6882"
+      },
+      {
+        "store_id": "1403188",
+        "pincode": "250004",
+        "latitude": "28.9539",
+        "longitude": "77.7355"
+      }
+    ],
+    "Puducherry": [
+      {
+        "store_id": "1402786",
+        "pincode": "605001",
+        "latitude": "11.9325",
+        "longitude": "79.7846"
+      },
+      {
+        "store_id": "1392533",
+        "pincode": "605005",
+        "latitude": "11.9251",
+        "longitude": "79.8083"
+      },
+      {
+        "store_id": "1389007",
+        "pincode": "605008",
+        "latitude": "11.9463",
+        "longitude": "79.8113"
+      },
+      {
+        "store_id": "1402266",
+        "pincode": "605008",
+        "latitude": "11.9549",
+        "longitude": "79.8293"
+      }
+    ],
+    "Raipur": [
+      {
+        "store_id": "1400982",
+        "pincode": "492001",
+        "latitude": "21.2261",
+        "longitude": "81.6269"
+      },
+      {
+        "store_id": "1400987",
+        "pincode": "492001",
+        "latitude": "21.2236",
+        "longitude": "81.6678"
+      },
+      {
+        "store_id": "1400986",
+        "pincode": "492004",
+        "latitude": "21.2613",
+        "longitude": "81.6447"
+      },
+      {
+        "store_id": "1400981",
+        "pincode": "492099",
+        "latitude": "21.2554",
+        "longitude": "81.5926"
+      }
+    ],
+    "Rajkot": [
+      {
+        "store_id": "1395731",
+        "pincode": "360001",
+        "latitude": "22.3039",
+        "longitude": "70.8022"
+      },
+      {
+        "store_id": "1402086",
+        "pincode": "360004",
+        "latitude": "22.2653",
+        "longitude": "70.7998"
+      },
+      {
+        "store_id": "1404651",
+        "pincode": "360005",
+        "latitude": "22.2951",
+        "longitude": "70.7597"
+      },
+      {
+        "store_id": "1402467",
+        "pincode": "360006",
+        "latitude": "22.3238",
+        "longitude": "70.768"
+      }
+    ],
+    "Ranchi": [
+      {
+        "store_id": "1395730",
+        "pincode": "834001",
+        "latitude": "23.3405",
+        "longitude": "85.3213"
+      },
+      {
+        "store_id": "1400560",
+        "pincode": "834001",
+        "latitude": "23.3861",
+        "longitude": "85.3392"
+      },
+      {
+        "store_id": "1402619",
+        "pincode": "834002",
+        "latitude": "23.3505",
+        "longitude": "85.2881"
+      },
+      {
+        "store_id": "1401273",
+        "pincode": "834009",
+        "latitude": "23.3941",
+        "longitude": "85.3536"
+      }
+    ],
+    "Aligarh": [
+      {
+        "store_id": "1400958",
+        "pincode": "202001",
+        "latitude": "27.8838",
+        "longitude": "78.0675"
+      },
+      {
+        "store_id": "1402047",
+        "pincode": "202001",
+        "latitude": "27.9251",
+        "longitude": "78.0766"
+      },
+      {
+        "store_id": "1400959",
+        "pincode": "202002",
+        "latitude": "27.9064",
+        "longitude": "78.0982"
+      }
+    ],
+    "Aurangabad(Mh)": [
+      {
+        "store_id": "1401651",
+        "pincode": "431001",
+        "latitude": "19.8755",
+        "longitude": "75.3286"
+      },
+      {
+        "store_id": "1403726",
+        "pincode": "431001",
+        "latitude": "19.8531",
+        "longitude": "75.3112"
+      },
+      {
+        "store_id": "1401658",
+        "pincode": "431005",
+        "latitude": "19.877",
+        "longitude": "75.3543"
+      }
+    ],
+    "Bareilly": [
+      {
+        "store_id": "1400963",
+        "pincode": "243001",
+        "latitude": "28.3778",
+        "longitude": "79.4263"
+      },
+      {
+        "store_id": "1402606",
+        "pincode": "243001",
+        "latitude": "28.351",
+        "longitude": "79.4233"
+      },
+      {
+        "store_id": "1402245",
+        "pincode": "243006",
+        "latitude": "28.3737",
+        "longitude": "79.4593"
+      }
+    ],
+    "Darjeeling": [
+      {
+        "store_id": "1402077",
+        "pincode": "734003",
+        "latitude": "26.7343",
+        "longitude": "88.4041"
+      },
+      {
+        "store_id": "1403752",
+        "pincode": "734005",
+        "latitude": "26.7054",
+        "longitude": "88.4158"
+      },
+      {
+        "store_id": "1403751",
+        "pincode": "734008",
+        "latitude": "26.7621",
+        "longitude": "88.4461"
+      }
+    ],
+    "Gandhinagar": [
+      {
+        "store_id": "1387076",
+        "pincode": "382421",
+        "latitude": "23.184",
+        "longitude": "72.6305"
+      },
+      {
+        "store_id": "1400956",
+        "pincode": "382421",
+        "latitude": "23.1618",
+        "longitude": "72.6612"
+      },
+      {
+        "store_id": "1400544",
+        "pincode": "382501",
+        "latitude": "23.1502",
+        "longitude": "72.5409"
+      }
+    ],
+    "Gorakhpur": [
+      {
+        "store_id": "1402252",
+        "pincode": "273001",
+        "latitude": "26.7539",
+        "longitude": "83.3765"
+      },
+      {
+        "store_id": "1403183",
+        "pincode": "273001",
+        "latitude": "26.7854",
+        "longitude": "83.3876"
+      },
+      {
+        "store_id": "1400925",
+        "pincode": "273017",
+        "latitude": "26.722",
+        "longitude": "83.39"
+      }
+    ],
+    "Jabalpur": [
+      {
+        "store_id": "1402450",
+        "pincode": "482001",
+        "latitude": "23.1632",
+        "longitude": "79.9404"
+      },
+      {
+        "store_id": "1402258",
+        "pincode": "482002",
+        "latitude": "23.1927",
+        "longitude": "79.9181"
+      },
+      {
+        "store_id": "1401108",
+        "pincode": "482003",
+        "latitude": "23.1594",
+        "longitude": "79.9085"
+      }
+    ],
+    "Kota": [
+      {
+        "store_id": "1401280",
+        "pincode": "324002",
+        "latitude": "25.1807",
+        "longitude": "75.8807"
+      },
+      {
+        "store_id": "1401279",
+        "pincode": "324005",
+        "latitude": "25.1365",
+        "longitude": "75.8456"
+      },
+      {
+        "store_id": "1401281",
+        "pincode": "324008",
+        "latitude": "25.1982",
+        "longitude": "75.8403"
+      }
+    ],
+    "Kottayam": [
+      {
+        "store_id": "1400972",
+        "pincode": "686006",
+        "latitude": "9.6005",
+        "longitude": "76.5303"
+      },
+      {
+        "store_id": "1402471",
+        "pincode": "686101",
+        "latitude": "9.4492",
+        "longitude": "76.5412"
+      },
+      {
+        "store_id": "1403841",
+        "pincode": "686562",
+        "latitude": "9.6618",
+        "longitude": "76.5502"
+      }
+    ],
+    "Panipat": [
+      {
+        "store_id": "1401291",
+        "pincode": "132103",
+        "latitude": "29.4093",
+        "longitude": "76.97"
+      },
+      {
+        "store_id": "1402847",
+        "pincode": "132103",
+        "latitude": "29.3828",
+        "longitude": "76.9736"
+      },
+      {
+        "store_id": "1403422",
+        "pincode": "132103",
+        "latitude": "29.3897",
+        "longitude": "76.9542"
+      }
+    ],
+    "Patiala": [
+      {
+        "store_id": "1401268",
+        "pincode": "147001",
+        "latitude": "30.3296",
+        "longitude": "76.3929"
+      },
+      {
+        "store_id": "1401269",
+        "pincode": "147001",
+        "latitude": "30.3632",
+        "longitude": "76.3714"
+      },
+      {
+        "store_id": "1401270",
+        "pincode": "147001",
+        "latitude": "30.3664",
+        "longitude": "76.402"
+      }
+    ],
+    "Prayagraj": [
+      {
+        "store_id": "1399808",
+        "pincode": "211003",
+        "latitude": "25.4358",
+        "longitude": "81.8464"
+      },
+      {
+        "store_id": "1402244",
+        "pincode": "211015",
+        "latitude": "25.4322",
+        "longitude": "81.8233"
+      },
+      {
+        "store_id": "1402604",
+        "pincode": "211015",
+        "latitude": "25.4391",
+        "longitude": "81.7936"
+      }
+    ],
+    "South 24 Parganas": [
+      {
+        "store_id": "1314370",
+        "pincode": "700103",
+        "latitude": "22.4215",
+        "longitude": "88.4083"
+      },
+      {
+        "store_id": "1402805",
+        "pincode": "700139",
+        "latitude": "22.4477",
+        "longitude": "88.3029"
+      },
+      {
+        "store_id": "1391895",
+        "pincode": "700150",
+        "latitude": "22.5072",
+        "longitude": "88.4319"
+      }
+    ],
+    "Tirupati": [
+      {
+        "store_id": "1398448",
+        "pincode": "517501",
+        "latitude": "13.6139",
+        "longitude": "79.4171"
+      },
+      {
+        "store_id": "1404568",
+        "pincode": "517501",
+        "latitude": "13.6159",
+        "longitude": "79.4337"
+      },
+      {
+        "store_id": "1404618",
+        "pincode": "517507",
+        "latitude": "13.6451",
+        "longitude": "79.4272"
+      }
+    ],
+    "Trichy": [
+      {
+        "store_id": "1402073",
+        "pincode": "620007",
+        "latitude": "10.7567",
+        "longitude": "78.7011"
+      },
+      {
+        "store_id": "1399347",
+        "pincode": "620017",
+        "latitude": "10.8003",
+        "longitude": "78.673"
+      },
+      {
+        "store_id": "1398449",
+        "pincode": "620018",
+        "latitude": "10.8342",
+        "longitude": "78.689"
+      }
+    ],
+    "Udaipur": [
+      {
+        "store_id": "1397089",
+        "pincode": "313001",
+        "latitude": "24.5899",
+        "longitude": "73.6927"
+      },
+      {
+        "store_id": "1398451",
+        "pincode": "313001",
+        "latitude": "24.6212",
+        "longitude": "73.7066"
+      },
+      {
+        "store_id": "1399804",
+        "pincode": "313002",
+        "latitude": "24.5583",
+        "longitude": "73.7148"
+      }
+    ],
+    "Vellore": [
+      {
+        "store_id": "1404867",
+        "pincode": "632002",
+        "latitude": "12.8871",
+        "longitude": "79.136"
+      },
+      {
+        "store_id": "1397627",
+        "pincode": "632007",
+        "latitude": "12.9632",
+        "longitude": "79.1364"
+      },
+      {
+        "store_id": "1402269",
+        "pincode": "632012",
+        "latitude": "12.9305",
+        "longitude": "79.1417"
+      }
+    ],
+    "Warangal": [
+      {
+        "store_id": "1395433",
+        "pincode": "506001",
+        "latitude": "17.9997",
+        "longitude": "79.5545"
+      },
+      {
+        "store_id": "1404663",
+        "pincode": "506001",
+        "latitude": "17.9937",
+        "longitude": "79.5324"
+      },
+      {
+        "store_id": "1400985",
+        "pincode": "506015",
+        "latitude": "18.0324",
+        "longitude": "79.5374"
+      }
+    ],
+    "Agra": [
+      {
+        "store_id": "1401076",
+        "pincode": "282002",
+        "latitude": "27.1947",
+        "longitude": "77.998"
+      },
+      {
+        "store_id": "1402243",
+        "pincode": "282007",
+        "latitude": "27.2047",
+        "longitude": "77.9548"
+      }
+    ],
+    "Ajmer": [
+      {
+        "store_id": "1402472",
+        "pincode": "305001",
+        "latitude": "26.468",
+        "longitude": "74.6393"
+      },
+      {
+        "store_id": "1402770",
+        "pincode": "305004",
+        "latitude": "26.4926",
+        "longitude": "74.6222"
+      }
+    ],
+    "Alappuzha": [
+      {
+        "store_id": "1401077",
+        "pincode": "688001",
+        "latitude": "9.4921",
+        "longitude": "76.3306"
+      },
+      {
+        "store_id": "1402456",
+        "pincode": "689126",
+        "latitude": "9.3176",
+        "longitude": "76.6148"
+      }
+    ],
+    "Ambala": [
+      {
+        "store_id": "1401289",
+        "pincode": "133004",
+        "latitude": "30.3414",
+        "longitude": "76.8399"
+      },
+      {
+        "store_id": "1402271",
+        "pincode": "134003",
+        "latitude": "30.3744",
+        "longitude": "76.7822"
+      }
+    ],
+    "Amravati": [
+      {
+        "store_id": "1402772",
+        "pincode": "444603",
+        "latitude": "20.9552",
+        "longitude": "77.7641"
+      },
+      {
+        "store_id": "1402771",
+        "pincode": "444606",
+        "latitude": "20.9185",
+        "longitude": "77.7602"
+      }
+    ],
+    "Amritsar": [
+      {
+        "store_id": "1397088",
+        "pincode": "143001",
+        "latitude": "31.6317",
+        "longitude": "74.8828"
+      },
+      {
+        "store_id": "1404306",
+        "pincode": "143005",
+        "latitude": "31.6311",
+        "longitude": "74.8153"
+      }
+    ],
+    "Anand": [
+      {
+        "store_id": "1403137",
+        "pincode": "388001",
+        "latitude": "22.5643",
+        "longitude": "72.9558"
+      },
+      {
+        "store_id": "1403174",
+        "pincode": "388120",
+        "latitude": "22.5452",
+        "longitude": "72.9293"
+      }
+    ],
+    "Anantapur": [
+      {
+        "store_id": "1404650",
+        "pincode": "515001",
+        "latitude": "14.6839",
+        "longitude": "77.5843"
+      },
+      {
+        "store_id": "1404769",
+        "pincode": "515001",
+        "latitude": "14.6657",
+        "longitude": "77.6018"
+      }
+    ],
+    "Belgaum": [
+      {
+        "store_id": "1400217",
+        "pincode": "590001",
+        "latitude": "15.8802",
+        "longitude": "74.5116"
+      },
+      {
+        "store_id": "1400605",
+        "pincode": "590006",
+        "latitude": "15.8292",
+        "longitude": "74.5012"
+      }
+    ],
+    "Cuttack": [
+      {
+        "store_id": "1403140",
+        "pincode": "753012",
+        "latitude": "20.4607",
+        "longitude": "85.8916"
+      },
+      {
+        "store_id": "1402075",
+        "pincode": "753014",
+        "latitude": "20.4861",
+        "longitude": "85.8407"
+      }
+    ],
+    "Dibrugarh": [
+      {
+        "store_id": "1401487",
+        "pincode": "786001",
+        "latitude": "27.4756",
+        "longitude": "94.9088"
+      },
+      {
+        "store_id": "1401287",
+        "pincode": "786003",
+        "latitude": "27.4703",
+        "longitude": "94.9326"
+      }
+    ],
+    "Erode": [
+      {
+        "store_id": "1401078",
+        "pincode": "638001",
+        "latitude": "11.3365",
+        "longitude": "77.7273"
+      },
+      {
+        "store_id": "1402054",
+        "pincode": "638012",
+        "latitude": "11.3251",
+        "longitude": "77.6838"
+      }
+    ],
+    "Ganganagar": [
+      {
+        "store_id": "1401278",
+        "pincode": "335001",
+        "latitude": "29.9089",
+        "longitude": "73.8808"
+      },
+      {
+        "store_id": "1401650",
+        "pincode": "335001",
+        "latitude": "29.9241",
+        "longitude": "73.864"
+      }
+    ],
+    "Hubballi": [
+      {
+        "store_id": "1401655",
+        "pincode": "580023",
+        "latitude": "15.3677",
+        "longitude": "75.155"
+      },
+      {
+        "store_id": "1400566",
+        "pincode": "580030",
+        "latitude": "15.3466",
+        "longitude": "75.1105"
+      }
+    ],
+    "Jalandhar": [
+      {
+        "store_id": "1402621",
+        "pincode": "144001",
+        "latitude": "31.3429",
+        "longitude": "75.5926"
+      },
+      {
+        "store_id": "1401284",
+        "pincode": "144003",
+        "latitude": "31.2914",
+        "longitude": "75.5778"
+      }
+    ],
+    "Jhansi": [
+      {
+        "store_id": "1403373",
+        "pincode": "284001",
+        "latitude": "25.451",
+        "longitude": "78.5892"
+      },
+      {
+        "store_id": "1403977",
+        "pincode": "284003",
+        "latitude": "25.4544",
+        "longitude": "78.5444"
+      }
+    ],
+    "Kanchipuram": [
+      {
+        "store_id": "1403356",
+        "pincode": "600070",
+        "latitude": "12.9844",
+        "longitude": "80.1285"
+      },
+      {
+        "store_id": "1402682",
+        "pincode": "631502",
+        "latitude": "12.8357",
+        "longitude": "79.7077"
+      }
+    ],
+    "Karimnagar": [
+      {
+        "store_id": "1399807",
+        "pincode": "505001",
+        "latitude": "18.4299",
+        "longitude": "79.1361"
+      },
+      {
+        "store_id": "1403837",
+        "pincode": "505001",
+        "latitude": "18.4571",
+        "longitude": "79.122"
+      }
+    ],
+    "Karnal": [
+      {
+        "store_id": "1403312",
+        "pincode": "132001",
+        "latitude": "29.7081",
+        "longitude": "77.0091"
+      },
+      {
+        "store_id": "1403556",
+        "pincode": "132001",
+        "latitude": "29.6845",
+        "longitude": "76.9841"
+      }
+    ],
+    "Karur": [
+      {
+        "store_id": "1403558",
+        "pincode": "639002",
+        "latitude": "10.9626",
+        "longitude": "78.0651"
+      },
+      {
+        "store_id": "1403372",
+        "pincode": "639004",
+        "latitude": "10.9476",
+        "longitude": "78.0922"
+      }
+    ],
+    "Khammam": [
+      {
+        "store_id": "1400602",
+        "pincode": "507002",
+        "latitude": "17.2469",
+        "longitude": "80.165"
+      },
+      {
+        "store_id": "1400606",
+        "pincode": "507003",
+        "latitude": "17.2503",
+        "longitude": "80.1326"
+      }
+    ],
+    "Kolhapur": [
+      {
+        "store_id": "1402475",
+        "pincode": "416004",
+        "latitude": "16.676",
+        "longitude": "74.2268"
+      },
+      {
+        "store_id": "1403724",
+        "pincode": "416005",
+        "latitude": "16.7025",
+        "longitude": "74.2604"
+      }
+    ],
+    "Kollam": [
+      {
+        "store_id": "1402261",
+        "pincode": "691005",
+        "latitude": "8.912",
+        "longitude": "76.6284"
+      },
+      {
+        "store_id": "1402780",
+        "pincode": "691005",
+        "latitude": "8.912",
+        "longitude": "76.6284"
+      }
+    ],
+    "Kurnool": [
+      {
+        "store_id": "1401080",
+        "pincode": "518001",
+        "latitude": "15.823",
+        "longitude": "78.0295"
+      },
+      {
+        "store_id": "1401079",
+        "pincode": "518002",
+        "latitude": "15.7974",
+        "longitude": "78.0524"
+      }
+    ],
+    "Kurukshetra": [
+      {
+        "store_id": "1403458",
+        "pincode": "136131",
+        "latitude": "29.9693",
+        "longitude": "76.8395"
+      },
+      {
+        "store_id": "1403474",
+        "pincode": "136131",
+        "latitude": "29.9696",
+        "longitude": "76.8904"
+      }
+    ],
+    "Moradabad": [
+      {
+        "store_id": "1401290",
+        "pincode": "244001",
+        "latitude": "28.8449",
+        "longitude": "78.7605"
+      },
+      {
+        "store_id": "1402272",
+        "pincode": "244001",
+        "latitude": "28.8716",
+        "longitude": "78.7542"
+      }
+    ],
+    "Nellore": [
+      {
+        "store_id": "1399805",
+        "pincode": "524003",
+        "latitude": "14.4321",
+        "longitude": "79.9722"
+      },
+      {
+        "store_id": "1403363",
+        "pincode": "524003",
+        "latitude": "14.4527",
+        "longitude": "79.9884"
+      }
+    ],
+    "Panchkula": [
+      {
+        "store_id": "1387905",
+        "pincode": "134113",
+        "latitude": "30.6927",
+        "longitude": "76.8577"
+      },
+      {
+        "store_id": "1385562",
+        "pincode": "134117",
+        "latitude": "30.6612",
+        "longitude": "76.8593"
+      }
+    ],
+    "Prakasam": [
+      {
+        "store_id": "1404830",
+        "pincode": "523001",
+        "latitude": "15.4914",
+        "longitude": "80.0488"
+      },
+      {
+        "store_id": "1404868",
+        "pincode": "523002",
+        "latitude": "15.511",
+        "longitude": "80.0366"
+      }
+    ],
+    "Rohtak": [
+      {
+        "store_id": "1403370",
+        "pincode": "124001",
+        "latitude": "28.8989",
+        "longitude": "76.5868"
+      },
+      {
+        "store_id": "1403371",
+        "pincode": "124001",
+        "latitude": "28.8926",
+        "longitude": "76.6186"
+      }
+    ],
+    "Salem": [
+      {
+        "store_id": "1398447",
+        "pincode": "636006",
+        "latitude": "11.6318",
+        "longitude": "78.1514"
+      },
+      {
+        "store_id": "1395732",
+        "pincode": "636016",
+        "latitude": "11.6808",
+        "longitude": "78.1429"
+      }
+    ],
+    "Siliguri": [
+      {
+        "store_id": "1402809",
+        "pincode": "734001",
+        "latitude": "26.74",
+        "longitude": "88.4272"
+      },
+      {
+        "store_id": "1404649",
+        "pincode": "734001",
+        "latitude": "26.43",
+        "longitude": "88.25"
+      }
+    ],
+    "Thanjavur": [
+      {
+        "store_id": "1402069",
+        "pincode": "613001",
+        "latitude": "10.7741",
+        "longitude": "79.1385"
+      },
+      {
+        "store_id": "1403456",
+        "pincode": "613005",
+        "latitude": "10.7572",
+        "longitude": "79.1237"
+      }
+    ],
+    "Ujjain": [
+      {
+        "store_id": "1402468",
+        "pincode": "456006",
+        "latitude": "23.1919",
+        "longitude": "75.791"
+      },
+      {
+        "store_id": "1401277",
+        "pincode": "456010",
+        "latitude": "23.1574",
+        "longitude": "75.7949"
+      }
+    ],
+    "Vapi": [
+      {
+        "store_id": "1401276",
+        "pincode": "396191",
+        "latitude": "20.3671",
+        "longitude": "72.9251"
+      },
+      {
+        "store_id": "1401715",
+        "pincode": "396191",
+        "latitude": "20.3816",
+        "longitude": "72.9058"
+      }
+    ],
+    "Vijayanagar": [
+      {
+        "store_id": "1239166",
+        "pincode": "570030",
+        "latitude": "12.32",
+        "longitude": "76.5959"
+      },
+      {
+        "store_id": "1404785",
+        "pincode": "570030",
+        "latitude": "12.3205",
+        "longitude": "76.6032"
+      }
+    ],
+    "Ahmednagar": [
+      {
+        "store_id": "1403562",
+        "pincode": "414001",
+        "latitude": "19.1124",
+        "longitude": "74.7297"
+      }
+    ],
+    "Bathinda": [
+      {
+        "store_id": "1403512",
+        "pincode": "151001",
+        "latitude": "30.2256",
+        "longitude": "74.9545"
+      }
+    ],
+    "Berhampur": [
+      {
+        "store_id": "1403747",
+        "pincode": "760002",
+        "latitude": "19.3055",
+        "longitude": "84.7818"
+      }
+    ],
+    "Bhilai": [
+      {
+        "store_id": "1403369",
+        "pincode": "490020",
+        "latitude": "21.2091",
+        "longitude": "81.3237"
+      }
+    ],
+    "Bhimavaram": [
+      {
+        "store_id": "1404573",
+        "pincode": "534204",
+        "latitude": "16.5401",
+        "longitude": "81.5129"
+      }
+    ],
+    "Bikaner": [
+      {
+        "store_id": "1403367",
+        "pincode": "334003",
+        "latitude": "28.0034",
+        "longitude": "73.3416"
+      }
+    ],
+    "Bilaspur": [
+      {
+        "store_id": "1403368",
+        "pincode": "495001",
+        "latitude": "22.0764",
+        "longitude": "82.1501"
+      }
+    ],
+    "Cachar": [
+      {
+        "store_id": "1402788",
+        "pincode": "788001",
+        "latitude": "24.8037",
+        "longitude": "92.7935"
+      }
+    ],
+    "Davanagere": [
+      {
+        "store_id": "1400966",
+        "pincode": "577005",
+        "latitude": "14.443",
+        "longitude": "75.9211"
+      }
+    ],
+    "Durgapur": [
+      {
+        "store_id": "1403748",
+        "pincode": "713212",
+        "latitude": "23.5204",
+        "longitude": "87.3467"
+      }
+    ],
+    "Jodhpur": [
+      {
+        "store_id": "1402626",
+        "pincode": "342003",
+        "latitude": "26.2648",
+        "longitude": "72.9935"
+      }
+    ],
+    "Kannur": [
+      {
+        "store_id": "1404569",
+        "pincode": "670002",
+        "latitude": "11.87",
+        "longitude": "75.3714"
+      }
+    ],
+    "Kanyakumari": [
+      {
+        "store_id": "1402474",
+        "pincode": "629003",
+        "latitude": "8.1847",
+        "longitude": "77.4186"
+      }
+    ],
+    "Kavanur": [
+      {
+        "store_id": "1404804",
+        "pincode": "603203",
+        "latitude": "12.8198",
+        "longitude": "80.0425"
+      }
+    ],
+    "Latur": [
+      {
+        "store_id": "1402781",
+        "pincode": "413512",
+        "latitude": "18.3959",
+        "longitude": "76.5679"
+      }
+    ],
+    "Manipal": [
+      {
+        "store_id": "1399705",
+        "pincode": "576104",
+        "latitude": "13.342",
+        "longitude": "74.7827"
+      }
+    ],
+    "Mathura": [
+      {
+        "store_id": "1402076",
+        "pincode": "281004",
+        "latitude": "27.4971",
+        "longitude": "77.6615"
+      }
+    ],
+    "Muzaffarpur": [
+      {
+        "store_id": "1404797",
+        "pincode": "842002",
+        "latitude": "26.1161",
+        "longitude": "85.3967"
+      }
+    ],
+    "Nadia": [
+      {
+        "store_id": "1401479",
+        "pincode": "741235",
+        "latitude": "22.9721",
+        "longitude": "88.433"
+      }
+    ],
+    "Nanded": [
+      {
+        "store_id": "1403564",
+        "pincode": "431605",
+        "latitude": "19.1721",
+        "longitude": "77.3165"
+      }
+    ],
+    "Nizamabad": [
+      {
+        "store_id": "1404858",
+        "pincode": "503001",
+        "latitude": "18.6682",
+        "longitude": "78.1097"
+      }
+    ],
+    "Palakkad": [
+      {
+        "store_id": "1402067",
+        "pincode": "678001",
+        "latitude": "10.7927",
+        "longitude": "76.6387"
+      }
+    ],
+    "Roorkee": [
+      {
+        "store_id": "1401285",
+        "pincode": "247667",
+        "latitude": "29.8665",
+        "longitude": "77.8883"
+      }
+    ],
+    "Rudrapur": [
+      {
+        "store_id": "1402787",
+        "pincode": "263153",
+        "latitude": "28.9801",
+        "longitude": "79.4003"
+      }
+    ],
+    "Saharanpur": [
+      {
+        "store_id": "1403754",
+        "pincode": "247001",
+        "latitude": "29.9411",
+        "longitude": "77.5411"
+      }
+    ],
+    "Satara": [
+      {
+        "store_id": "1403760",
+        "pincode": "415004",
+        "latitude": "17.6768",
+        "longitude": "74.0258"
+      }
+    ],
+    "Shivamogga": [
+      {
+        "store_id": "1401657",
+        "pincode": "577204",
+        "latitude": "13.9386",
+        "longitude": "75.5536"
+      }
+    ],
+    "Sivaganga": [
+      {
+        "store_id": "1403759",
+        "pincode": "630001",
+        "latitude": "10.071",
+        "longitude": "78.771"
+      }
+    ],
+    "Sonipat": [
+      {
+        "store_id": "1400983",
+        "pincode": "131001",
+        "latitude": "28.9922",
+        "longitude": "77.0151"
+      }
+    ],
+    "Tadepalli": [
+      {
+        "store_id": "1398450",
+        "pincode": "522501",
+        "latitude": "16.4618",
+        "longitude": "80.6103"
+      }
+    ],
+    "Thane": [
+      {
+        "store_id": "1400552",
+        "pincode": "421003",
+        "latitude": "19.2237",
+        "longitude": "73.1643"
+      }
+    ],
+    "Thoothukudi": [
+      {
+        "store_id": "1401656",
+        "pincode": "628003",
+        "latitude": "8.8076",
+        "longitude": "78.1345"
+      }
+    ],
+    "Tirunelveli": [
+      {
+        "store_id": "1401286",
+        "pincode": "627011",
+        "latitude": "8.7106",
+        "longitude": "77.7485"
+      }
+    ],
+    "Tiruppur": [
+      {
+        "store_id": "1401274",
+        "pincode": "641604",
+        "latitude": "11.0948",
+        "longitude": "77.3537"
+      }
+    ],
+    "Tiruvallur": [
+      {
+        "store_id": "1400224",
+        "pincode": "601013",
+        "latitude": "8.8851",
+        "longitude": "76.5808"
+      }
+    ],
+    "Tumakuru": [
+      {
+        "store_id": "1402473",
+        "pincode": "572101",
+        "latitude": "13.3424",
+        "longitude": "77.1002"
+      }
+    ],
+    "Udupi": [
+      {
+        "store_id": "1404750",
+        "pincode": "576101",
+        "latitude": "13.3309",
+        "longitude": "74.7459"
+      }
+    ],
+    "Vizianagaram": [
+      {
+        "store_id": "1402790",
+        "pincode": "535002",
+        "latitude": "18.1029",
+        "longitude": "83.4127"
+      }
+    ],
+    "West Godavari": [
+      {
+        "store_id": "1404570",
+        "pincode": "534002",
+        "latitude": "16.7118",
+        "longitude": "81.1024"
+      }
+    ]
+  }
+}
